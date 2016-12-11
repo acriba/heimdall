@@ -10,10 +10,17 @@ use std::sync::mpsc::Sender;
 use std::time::Duration;
 use std::net::Ipv4Addr;
 use std::str::FromStr;
-use std::collections::HashMap;
+//use std::collections::HashMap;
 use std::error::Error;
+
 use regex::Regex;
 use regex::RegexSet;
+
+use lru_cache::LruCache;
+use fnv::FnvHasher;
+use std::hash::BuildHasherDefault;
+
+type FnvLruCache<K, V> = LruCache<K, V, BuildHasherDefault<FnvHasher>>;
 
 pub struct FileObserver {
     pub name: String,
@@ -44,10 +51,21 @@ pub struct PatternResult {
 
 impl HourStat {
 
+    /*
     fn new(hour:u8) -> HourStat {
         HourStat {
             hour: hour,
             minutes: [0;60]
+        }
+    }
+    */
+
+    fn new(hour:u8, minute:u8, count:u32) -> HourStat {
+        let mut minutes = [0; 60];
+        minutes[minute as usize] += count;
+        HourStat {
+            hour: hour,
+            minutes: minutes
         }
     }
 
@@ -91,7 +109,10 @@ impl FileObserver {
 
         thread::spawn(move || {
 
-            let mut ip_statistics : HashMap<Ipv4Addr, HourStat> = HashMap::new();
+            //let mut ip_statistics : HashMap<Ipv4Addr, HourStat> = HashMap::new();
+
+            let mut ip_statistics : FnvLruCache<Ipv4Addr, HourStat> = LruCache::with_hasher(5000, Default::default());
+
             let mut log_line = String::new();
 
             let f = File::open(&self.file_path).expect("Unable to open file");
@@ -124,11 +145,12 @@ impl FileObserver {
                     Err(_) => continue
                 } > 0 {
                     if let Some(hit) = check_patterns(&self.pattern_set, &self.patterns, &log_line) {
-                        //TODO: Sollte eingentlich ein LRU Cache sein.
+                        /*
                         if ip_statistics.len() > 5000 {
                             info!("Cleared hashmap size was greater 5000.");
                             ip_statistics.clear();
                         }
+                        */
                         let interval_hits = get_updated_interval_hits(&mut ip_statistics, &hit, &self.limit_minutes);
                         if interval_hits >= self.limit_count {
                             ip_statistics.remove(&hit.ip);
@@ -149,10 +171,15 @@ impl FileObserver {
 
 }
 
-fn get_updated_interval_hits(ip_statistics: &mut HashMap<Ipv4Addr, HourStat>, hit: &PatternResult, limit_minutes: &u8) -> u32 {
-    let hour_stat = ip_statistics.entry(hit.ip).or_insert(HourStat::new(hit.hour));
-    hour_stat.add(hit.hour, hit.minute, 1);
-    hour_stat.sum(hit.hour, hit.minute, limit_minutes)
+fn get_updated_interval_hits(ip_statistics: &mut FnvLruCache<Ipv4Addr, HourStat>, hit: &PatternResult, limit_minutes: &u8) -> u32 {
+
+    if let Some(hour_stat) = ip_statistics.get_mut(&hit.ip) {
+        hour_stat.add(hit.hour, hit.minute, 1);
+        return hour_stat.sum(hit.hour, hit.minute, limit_minutes);
+    }
+
+    ip_statistics.insert(hit.ip, HourStat::new(hit.hour, hit.minute, 1));
+    1
 }
 
 fn check_patterns(regex_set: &RegexSet, patterns: &Vec<LogPattern>, line: &str) -> Option<PatternResult> {

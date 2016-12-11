@@ -3,6 +3,8 @@ extern crate time;
 extern crate xmltree;
 extern crate getopts;
 extern crate num_traits;
+extern crate lru_cache;
+extern crate fnv;
 
 #[macro_use]
 extern crate slog;
@@ -25,6 +27,7 @@ use std::process::Command;
 use std::io;
 use std::fs::OpenOptions;
 use std::collections::HashMap;
+
 use num_traits::int::PrimInt;
 
 use slog::DrainExt;
@@ -92,29 +95,38 @@ fn unjail(entries: &mut Vec<JailEntry>, index: usize, command: &str, simulate: b
 
 fn dojail(entries: &mut Vec<JailEntry>, jail_counter: &mut HashMap<Ipv4Addr, u32>, hit: &Hit, jail_time: i64, command: &str, simulate: bool) -> bool {
 
-    let mut effective_jail_time = jail_time;
 
-    let index = entries.iter().position( |it| it.ip == hit.ip);
-    if index.is_some() {
-        entries.remove(index.unwrap());
-    } else {
-        let jail_count = jail_counter.entry(hit.ip).or_insert(0);
-        *jail_count = *jail_count + 1;
+    //let mut effective_jail_time = jail_time;
+    let mut found_existing_item = false;
 
-        effective_jail_time = jail_time * 6.pow(*jail_count-1);
-
-        info!("Jailing {} - count: {}: {}", hit.observer_name, jail_count, hit.ip);
-        execute_process(command, &hit.ip, simulate);
+    if let Some(existing_item) = entries.iter_mut().find( |it| it.ip == hit.ip) {
+        existing_item.time = time::get_time().sec + jail_time;
+        found_existing_item = true;
     }
 
-    entries.push(
-        JailEntry{
-            time: time::get_time().sec + effective_jail_time,
-            ip: hit.ip,
-        }
-    );
+    if found_existing_item {
+        entries.sort_by(|a, b| a.time.cmp(&b.time));
+        return false;
+    }
 
-    false
+    let jail_count = jail_counter.entry(hit.ip).or_insert(0);
+    *jail_count = *jail_count + 1;
+
+    info!("Jailing {} - count: {}: {}", hit.observer_name, jail_count, hit.ip);
+    if execute_process(command, &hit.ip, simulate) {
+
+        entries.push(
+            JailEntry{
+                time: time::get_time().sec + jail_time * 6.pow(*jail_count-1),
+                ip: hit.ip,
+            }
+        );
+
+    }
+
+    entries.sort_by(|a, b| a.time.cmp(&b.time));
+    true
+
 }
 
 fn execute_process(command: &str, ip: &Ipv4Addr, simulate: bool) -> bool {
