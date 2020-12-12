@@ -1,6 +1,6 @@
 use std::io::BufReader;
 use std::fs::File;
-use std::error::Error;
+// use std::error::Error;
 
 use regex::Regex;
 use regex::RegexSet;
@@ -24,7 +24,7 @@ impl Config {
 
         let f = match File::open(filename){
             Ok(file) => file,
-            Err(e) => return Err(format!("Could not open {}: {}", filename, e.description()))
+            Err(e) => return Err(format!("Could not open {}: {}", filename, e.to_string()))
         };
 
         let configuration_file_reader = BufReader::new(f);
@@ -173,7 +173,7 @@ fn create_pattern(s: &String) -> Result<(LogPattern, String), String> {
 
     let regex = match Regex::new(&str_regex) {
         Ok(regex) => regex,
-        Err(err) => return Err(format!("Invalid Regex: {}: {}", &str_regex, err.description()))
+        Err(err) => return Err(format!("Invalid Regex: {}: {}", &str_regex, err.to_string()))
     };
 
     fn get_capture_group(haystack : &str, needle : &str) -> Option<usize> {

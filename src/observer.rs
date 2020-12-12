@@ -11,7 +11,7 @@ use std::time::Duration;
 use std::net::Ipv4Addr;
 use std::str::FromStr;
 //use std::collections::HashMap;
-use std::error::Error;
+// use std::error::Error;
 
 use regex::Regex;
 use regex::RegexSet;
@@ -102,7 +102,7 @@ impl FileObserver {
 
         let mut size: u64 = match fs::metadata(&self.file_path) {
             Ok(meta) => meta.len(),
-            Err(why) => return Err(format!("Could not read file: {}: {}", self.file_path, why.description()))
+            Err(why) => return Err(format!("Could not read file: {}: {}", self.file_path, why.to_string()))
         };
 
         info!("observing file: {}", self.file_path);
@@ -140,9 +140,9 @@ impl FileObserver {
                     };
                     size = current_size;
                 }
-                while match reader.read_line(&mut log_line) {
+                'lbl_continue: while match reader.read_line(&mut log_line) {
                     Ok(val) => val,
-                    Err(_) => continue
+                    Err(_) => continue 'lbl_continue
                 } > 0 {
                     if let Some(hit) = check_patterns(&self.pattern_set, &self.patterns, &log_line) {
                         /*

@@ -51,12 +51,14 @@ struct LogFormat;
 
 impl slog_stream::Format for LogFormat {
     fn format(&self,
-              io: &mut io::Write,
+              io: &mut dyn io::Write,
               rinfo: &slog::Record,
               _logger_values: &slog::OwnedKeyValueList)
               -> io::Result<()> {
         let msg = format!("{} - {} - {}\n", time::now().strftime("%b %d %H:%M:%S").unwrap(), rinfo.level(), rinfo.msg());
-        let _ = try!(io.write_all(msg.as_bytes()));
+        // let _ = try!(io.write_all(msg.as_bytes()));
+        // Ok(())
+        io.write_all(msg.as_bytes())?;
         Ok(())
     }
 }
@@ -74,7 +76,7 @@ fn unjail_thread(jail: Arc<Mutex<Vec<JailEntry>>>, sleep_for: u64, command: Stri
     });
 }
 
-fn do_while<T, F>(mut vec: &mut Vec<T>, check: F, execute: &Fn(&mut Vec<T>, usize, &str, bool), command: &str, simulate: bool)
+fn do_while<T, F>(mut vec: &mut Vec<T>, check: F, execute: &dyn Fn(&mut Vec<T>, usize, &str, bool), command: &str, simulate: bool)
     where F: Fn(&T) -> bool
 {
     loop {
@@ -146,9 +148,10 @@ fn execute_process(command: &str, ip: &Ipv4Addr, simulate: bool) -> bool {
 
     if !arguments_string.is_empty() {
 
-        let arguments : Vec<String> = arguments_string.split_whitespace().map( |s| String::from_str(s).unwrap() ).collect();
+        // let arguments : Vec<String> = arguments_string.split_whitespace().map( |s| String::from_str(s).unwrap() ).collect();
+        let arguments : Vec<String> = env::args().collect();
         status = match Command::new(&program_name)
-            .args(arguments.as_ref())
+            .args(&arguments)
             .status() {
                 Ok(stat) => stat,
                 Err(why) => {
@@ -182,7 +185,7 @@ fn print_usage(program: &str, opts: Options) {
 
 fn get_default_config() -> Option<String> {
     let default_paths = ["/etc/heimdall.xml", "heimdall.xml"];
-    match default_paths.into_iter().find( |path| {
+    match default_paths.iter().find( |path| {
         Path::new(&path).exists()
     }) {
         Some(s) => Some(String::from_str(s).unwrap()),
