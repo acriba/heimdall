@@ -1,0 +1,7 @@
+**/logs
+**/logs/*.log
+**/target
+**/target/**
+**/*.bin
+**/*.lock
+**/target
