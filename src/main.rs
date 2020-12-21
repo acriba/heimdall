@@ -134,6 +134,7 @@ fn dojail(entries: &mut Vec<JailEntry>, jail_counter: &mut HashMap<Ipv4Addr, u32
 fn execute_process(command: &str, ip: &Ipv4Addr, simulate: bool) -> bool {
 
     let mut parsed_command = String::from_str(command).unwrap().replace("{ip}", &ip.to_string());
+    info!("{:?}", parsed_command);
 
     let program_name_offset = parsed_command.find(" ").unwrap_or(parsed_command.len());
     let program_name : String = parsed_command.drain(..program_name_offset).collect();
@@ -143,19 +144,22 @@ fn execute_process(command: &str, ip: &Ipv4Addr, simulate: bool) -> bool {
         info!("Simulated command: {} with arguments {}", program_name, arguments_string);
         return true;
     }
-
+    
     let status;
 
     if !arguments_string.is_empty() {
 
-        // let arguments : Vec<String> = arguments_string.split_whitespace().map( |s| String::from_str(s).unwrap() ).collect();
-        let arguments : Vec<String> = env::args().collect();
+        info!("Parsed arguments are {}", arguments_string);
+        let arguments : Vec<String> = arguments_string.split_whitespace().map( |s| String::from_str(s).unwrap() ).collect();
+        // let arguments : Vec<String> = env::args().collect();
         status = match Command::new(&program_name)
             .args(&arguments)
             .status() {
                 Ok(stat) => stat,
                 Err(why) => {
                     error!("Error executing command {} with argument {:?}: {}", program_name, arguments, why);
+                    error!("The paramenter to the commans are{}", arguments.iter().fold(String::new(), |acc, arg| acc + &arg));
+                    error!("The argument_string_ {}", arguments_string);
                     return false
             }
         };
@@ -265,7 +269,7 @@ fn main() {
 
     let mut jail_counter : HashMap<Ipv4Addr, u32> = HashMap::new();
     let jail = Arc::new(Mutex::new(Vec::new()));
-    unjail_thread(jail.clone(), 1000, config.command_unjail , simulate);
+    unjail_thread(jail.clone(), 10000, config.command_unjail , simulate);
 
     let (tx, rx) = mpsc::channel();
     for observer in config.observers {

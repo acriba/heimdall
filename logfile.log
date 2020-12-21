@@ -1,0 +1,3030 @@
+Dec 11 09:57:15 - INFO - Initialized successfully.
+Dec 11 09:57:15 - INFO - Starting observer ssh.
+Dec 11 09:57:15 - ERRO - Could not read file: E:\heimdall\logfiles\ssh.txt: No such file or directory (os error 2)
+Dec 11 09:57:30 - INFO - Initialized successfully.
+Dec 11 09:57:30 - INFO - Starting observer ssh.
+Dec 11 09:57:30 - ERRO - Could not read file: ./ssh.txt: No such file or directory (os error 2)
+Dec 11 09:57:39 - INFO - Initialized successfully.
+Dec 11 09:57:39 - INFO - Starting observer ssh.
+Dec 11 09:57:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:34 - INFO - Initialized successfully.
+Dec 11 11:08:34 - INFO - Starting observer ssh.
+Dec 11 11:08:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:35 - INFO - Initialized successfully.
+Dec 11 11:08:35 - INFO - Starting observer ssh.
+Dec 11 11:08:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:36 - INFO - Initialized successfully.
+Dec 11 11:08:36 - INFO - Starting observer ssh.
+Dec 11 11:08:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:36 - INFO - Initialized successfully.
+Dec 11 11:08:36 - INFO - Starting observer ssh.
+Dec 11 11:08:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:37 - INFO - Initialized successfully.
+Dec 11 11:08:37 - INFO - Starting observer ssh.
+Dec 11 11:08:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:37 - INFO - Initialized successfully.
+Dec 11 11:08:37 - INFO - Starting observer ssh.
+Dec 11 11:08:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:38 - INFO - Initialized successfully.
+Dec 11 11:08:38 - INFO - Starting observer ssh.
+Dec 11 11:08:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:39 - INFO - Initialized successfully.
+Dec 11 11:08:39 - INFO - Starting observer ssh.
+Dec 11 11:08:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:39 - INFO - Initialized successfully.
+Dec 11 11:08:39 - INFO - Starting observer ssh.
+Dec 11 11:08:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:40 - INFO - Initialized successfully.
+Dec 11 11:08:40 - INFO - Starting observer ssh.
+Dec 11 11:08:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:41 - INFO - Initialized successfully.
+Dec 11 11:08:41 - INFO - Starting observer ssh.
+Dec 11 11:08:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:42 - INFO - Initialized successfully.
+Dec 11 11:08:42 - INFO - Starting observer ssh.
+Dec 11 11:08:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:43 - INFO - Initialized successfully.
+Dec 11 11:08:43 - INFO - Starting observer ssh.
+Dec 11 11:08:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:44 - INFO - Initialized successfully.
+Dec 11 11:08:44 - INFO - Starting observer ssh.
+Dec 11 11:08:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:44 - INFO - Initialized successfully.
+Dec 11 11:08:44 - INFO - Starting observer ssh.
+Dec 11 11:08:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:45 - INFO - Initialized successfully.
+Dec 11 11:08:45 - INFO - Starting observer ssh.
+Dec 11 11:08:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:45 - INFO - Initialized successfully.
+Dec 11 11:08:45 - INFO - Starting observer ssh.
+Dec 11 11:08:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:46 - INFO - Initialized successfully.
+Dec 11 11:08:46 - INFO - Starting observer ssh.
+Dec 11 11:08:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:47 - INFO - Initialized successfully.
+Dec 11 11:08:47 - INFO - Starting observer ssh.
+Dec 11 11:08:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:47 - INFO - Initialized successfully.
+Dec 11 11:08:47 - INFO - Starting observer ssh.
+Dec 11 11:08:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:48 - INFO - Initialized successfully.
+Dec 11 11:08:48 - INFO - Starting observer ssh.
+Dec 11 11:08:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:48 - INFO - Initialized successfully.
+Dec 11 11:08:48 - INFO - Starting observer ssh.
+Dec 11 11:08:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:49 - INFO - Initialized successfully.
+Dec 11 11:08:49 - INFO - Starting observer ssh.
+Dec 11 11:08:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:50 - INFO - Initialized successfully.
+Dec 11 11:08:50 - INFO - Starting observer ssh.
+Dec 11 11:08:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:50 - INFO - Initialized successfully.
+Dec 11 11:08:50 - INFO - Starting observer ssh.
+Dec 11 11:08:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:51 - INFO - Initialized successfully.
+Dec 11 11:08:51 - INFO - Starting observer ssh.
+Dec 11 11:08:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:52 - INFO - Initialized successfully.
+Dec 11 11:08:52 - INFO - Starting observer ssh.
+Dec 11 11:08:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:52 - INFO - Initialized successfully.
+Dec 11 11:08:52 - INFO - Starting observer ssh.
+Dec 11 11:08:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:53 - INFO - Initialized successfully.
+Dec 11 11:08:53 - INFO - Starting observer ssh.
+Dec 11 11:08:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:53 - INFO - Initialized successfully.
+Dec 11 11:08:53 - INFO - Starting observer ssh.
+Dec 11 11:08:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:54 - INFO - Initialized successfully.
+Dec 11 11:08:54 - INFO - Starting observer ssh.
+Dec 11 11:08:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:55 - INFO - Initialized successfully.
+Dec 11 11:08:55 - INFO - Starting observer ssh.
+Dec 11 11:08:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:55 - INFO - Initialized successfully.
+Dec 11 11:08:55 - INFO - Starting observer ssh.
+Dec 11 11:08:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:56 - INFO - Initialized successfully.
+Dec 11 11:08:56 - INFO - Starting observer ssh.
+Dec 11 11:08:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:57 - INFO - Initialized successfully.
+Dec 11 11:08:57 - INFO - Starting observer ssh.
+Dec 11 11:08:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:57 - INFO - Initialized successfully.
+Dec 11 11:08:57 - INFO - Starting observer ssh.
+Dec 11 11:08:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:58 - INFO - Initialized successfully.
+Dec 11 11:08:58 - INFO - Starting observer ssh.
+Dec 11 11:08:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:58 - INFO - Initialized successfully.
+Dec 11 11:08:58 - INFO - Starting observer ssh.
+Dec 11 11:08:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:08:59 - INFO - Initialized successfully.
+Dec 11 11:08:59 - INFO - Starting observer ssh.
+Dec 11 11:08:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:00 - INFO - Initialized successfully.
+Dec 11 11:09:00 - INFO - Starting observer ssh.
+Dec 11 11:09:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:00 - INFO - Initialized successfully.
+Dec 11 11:09:00 - INFO - Starting observer ssh.
+Dec 11 11:09:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:01 - INFO - Initialized successfully.
+Dec 11 11:09:01 - INFO - Starting observer ssh.
+Dec 11 11:09:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:02 - INFO - Initialized successfully.
+Dec 11 11:09:02 - INFO - Starting observer ssh.
+Dec 11 11:09:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:02 - INFO - Initialized successfully.
+Dec 11 11:09:02 - INFO - Starting observer ssh.
+Dec 11 11:09:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:03 - INFO - Initialized successfully.
+Dec 11 11:09:03 - INFO - Starting observer ssh.
+Dec 11 11:09:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:03 - INFO - Initialized successfully.
+Dec 11 11:09:03 - INFO - Starting observer ssh.
+Dec 11 11:09:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:04 - INFO - Initialized successfully.
+Dec 11 11:09:04 - INFO - Starting observer ssh.
+Dec 11 11:09:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:05 - INFO - Initialized successfully.
+Dec 11 11:09:05 - INFO - Starting observer ssh.
+Dec 11 11:09:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:05 - INFO - Initialized successfully.
+Dec 11 11:09:05 - INFO - Starting observer ssh.
+Dec 11 11:09:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:06 - INFO - Initialized successfully.
+Dec 11 11:09:06 - INFO - Starting observer ssh.
+Dec 11 11:09:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:06 - INFO - Initialized successfully.
+Dec 11 11:09:06 - INFO - Starting observer ssh.
+Dec 11 11:09:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:07 - INFO - Initialized successfully.
+Dec 11 11:09:07 - INFO - Starting observer ssh.
+Dec 11 11:09:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:08 - INFO - Initialized successfully.
+Dec 11 11:09:08 - INFO - Starting observer ssh.
+Dec 11 11:09:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:08 - INFO - Initialized successfully.
+Dec 11 11:09:08 - INFO - Starting observer ssh.
+Dec 11 11:09:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:09 - INFO - Initialized successfully.
+Dec 11 11:09:09 - INFO - Starting observer ssh.
+Dec 11 11:09:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:10 - INFO - Initialized successfully.
+Dec 11 11:09:10 - INFO - Starting observer ssh.
+Dec 11 11:09:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:10 - INFO - Initialized successfully.
+Dec 11 11:09:10 - INFO - Starting observer ssh.
+Dec 11 11:09:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:11 - INFO - Initialized successfully.
+Dec 11 11:09:11 - INFO - Starting observer ssh.
+Dec 11 11:09:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:11 - INFO - Initialized successfully.
+Dec 11 11:09:11 - INFO - Starting observer ssh.
+Dec 11 11:09:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:12 - INFO - Initialized successfully.
+Dec 11 11:09:12 - INFO - Starting observer ssh.
+Dec 11 11:09:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:13 - INFO - Initialized successfully.
+Dec 11 11:09:13 - INFO - Starting observer ssh.
+Dec 11 11:09:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:13 - INFO - Initialized successfully.
+Dec 11 11:09:13 - INFO - Starting observer ssh.
+Dec 11 11:09:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:14 - INFO - Initialized successfully.
+Dec 11 11:09:14 - INFO - Starting observer ssh.
+Dec 11 11:09:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:15 - INFO - Initialized successfully.
+Dec 11 11:09:15 - INFO - Starting observer ssh.
+Dec 11 11:09:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:15 - INFO - Initialized successfully.
+Dec 11 11:09:15 - INFO - Starting observer ssh.
+Dec 11 11:09:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:16 - INFO - Initialized successfully.
+Dec 11 11:09:16 - INFO - Starting observer ssh.
+Dec 11 11:09:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:16 - INFO - Initialized successfully.
+Dec 11 11:09:16 - INFO - Starting observer ssh.
+Dec 11 11:09:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:17 - INFO - Initialized successfully.
+Dec 11 11:09:17 - INFO - Starting observer ssh.
+Dec 11 11:09:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:18 - INFO - Initialized successfully.
+Dec 11 11:09:18 - INFO - Starting observer ssh.
+Dec 11 11:09:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:18 - INFO - Initialized successfully.
+Dec 11 11:09:18 - INFO - Starting observer ssh.
+Dec 11 11:09:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:19 - INFO - Initialized successfully.
+Dec 11 11:09:19 - INFO - Starting observer ssh.
+Dec 11 11:09:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:20 - INFO - Initialized successfully.
+Dec 11 11:09:20 - INFO - Starting observer ssh.
+Dec 11 11:09:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:20 - INFO - Initialized successfully.
+Dec 11 11:09:20 - INFO - Starting observer ssh.
+Dec 11 11:09:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:21 - INFO - Initialized successfully.
+Dec 11 11:09:21 - INFO - Starting observer ssh.
+Dec 11 11:09:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:21 - INFO - Initialized successfully.
+Dec 11 11:09:21 - INFO - Starting observer ssh.
+Dec 11 11:09:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:22 - INFO - Initialized successfully.
+Dec 11 11:09:22 - INFO - Starting observer ssh.
+Dec 11 11:09:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:23 - INFO - Initialized successfully.
+Dec 11 11:09:23 - INFO - Starting observer ssh.
+Dec 11 11:09:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:23 - INFO - Initialized successfully.
+Dec 11 11:09:23 - INFO - Starting observer ssh.
+Dec 11 11:09:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:24 - INFO - Initialized successfully.
+Dec 11 11:09:24 - INFO - Starting observer ssh.
+Dec 11 11:09:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:25 - INFO - Initialized successfully.
+Dec 11 11:09:25 - INFO - Starting observer ssh.
+Dec 11 11:09:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:25 - INFO - Initialized successfully.
+Dec 11 11:09:25 - INFO - Starting observer ssh.
+Dec 11 11:09:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:26 - INFO - Initialized successfully.
+Dec 11 11:09:26 - INFO - Starting observer ssh.
+Dec 11 11:09:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:26 - INFO - Initialized successfully.
+Dec 11 11:09:26 - INFO - Starting observer ssh.
+Dec 11 11:09:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:27 - INFO - Initialized successfully.
+Dec 11 11:09:27 - INFO - Starting observer ssh.
+Dec 11 11:09:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:28 - INFO - Initialized successfully.
+Dec 11 11:09:28 - INFO - Starting observer ssh.
+Dec 11 11:09:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:28 - INFO - Initialized successfully.
+Dec 11 11:09:28 - INFO - Starting observer ssh.
+Dec 11 11:09:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:29 - INFO - Initialized successfully.
+Dec 11 11:09:29 - INFO - Starting observer ssh.
+Dec 11 11:09:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:30 - INFO - Initialized successfully.
+Dec 11 11:09:30 - INFO - Starting observer ssh.
+Dec 11 11:09:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:30 - INFO - Initialized successfully.
+Dec 11 11:09:30 - INFO - Starting observer ssh.
+Dec 11 11:09:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:31 - INFO - Initialized successfully.
+Dec 11 11:09:31 - INFO - Starting observer ssh.
+Dec 11 11:09:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:31 - INFO - Initialized successfully.
+Dec 11 11:09:31 - INFO - Starting observer ssh.
+Dec 11 11:09:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:32 - INFO - Initialized successfully.
+Dec 11 11:09:32 - INFO - Starting observer ssh.
+Dec 11 11:09:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:33 - INFO - Initialized successfully.
+Dec 11 11:09:33 - INFO - Starting observer ssh.
+Dec 11 11:09:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:33 - INFO - Initialized successfully.
+Dec 11 11:09:33 - INFO - Starting observer ssh.
+Dec 11 11:09:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:34 - INFO - Initialized successfully.
+Dec 11 11:09:34 - INFO - Starting observer ssh.
+Dec 11 11:09:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:35 - INFO - Initialized successfully.
+Dec 11 11:09:35 - INFO - Starting observer ssh.
+Dec 11 11:09:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:35 - INFO - Initialized successfully.
+Dec 11 11:09:35 - INFO - Starting observer ssh.
+Dec 11 11:09:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:36 - INFO - Initialized successfully.
+Dec 11 11:09:36 - INFO - Starting observer ssh.
+Dec 11 11:09:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:36 - INFO - Initialized successfully.
+Dec 11 11:09:36 - INFO - Starting observer ssh.
+Dec 11 11:09:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:37 - INFO - Initialized successfully.
+Dec 11 11:09:37 - INFO - Starting observer ssh.
+Dec 11 11:09:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:38 - INFO - Initialized successfully.
+Dec 11 11:09:38 - INFO - Starting observer ssh.
+Dec 11 11:09:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:38 - INFO - Initialized successfully.
+Dec 11 11:09:38 - INFO - Starting observer ssh.
+Dec 11 11:09:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:39 - INFO - Initialized successfully.
+Dec 11 11:09:39 - INFO - Starting observer ssh.
+Dec 11 11:09:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:40 - INFO - Initialized successfully.
+Dec 11 11:09:40 - INFO - Starting observer ssh.
+Dec 11 11:09:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:40 - INFO - Initialized successfully.
+Dec 11 11:09:40 - INFO - Starting observer ssh.
+Dec 11 11:09:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:41 - INFO - Initialized successfully.
+Dec 11 11:09:41 - INFO - Starting observer ssh.
+Dec 11 11:09:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:41 - INFO - Initialized successfully.
+Dec 11 11:09:41 - INFO - Starting observer ssh.
+Dec 11 11:09:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:42 - INFO - Initialized successfully.
+Dec 11 11:09:42 - INFO - Starting observer ssh.
+Dec 11 11:09:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:43 - INFO - Initialized successfully.
+Dec 11 11:09:43 - INFO - Starting observer ssh.
+Dec 11 11:09:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:43 - INFO - Initialized successfully.
+Dec 11 11:09:43 - INFO - Starting observer ssh.
+Dec 11 11:09:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:44 - INFO - Initialized successfully.
+Dec 11 11:09:44 - INFO - Starting observer ssh.
+Dec 11 11:09:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:45 - INFO - Initialized successfully.
+Dec 11 11:09:45 - INFO - Starting observer ssh.
+Dec 11 11:09:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:45 - INFO - Initialized successfully.
+Dec 11 11:09:45 - INFO - Starting observer ssh.
+Dec 11 11:09:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:46 - INFO - Initialized successfully.
+Dec 11 11:09:46 - INFO - Starting observer ssh.
+Dec 11 11:09:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:46 - INFO - Initialized successfully.
+Dec 11 11:09:46 - INFO - Starting observer ssh.
+Dec 11 11:09:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:47 - INFO - Initialized successfully.
+Dec 11 11:09:47 - INFO - Starting observer ssh.
+Dec 11 11:09:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:48 - INFO - Initialized successfully.
+Dec 11 11:09:48 - INFO - Starting observer ssh.
+Dec 11 11:09:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:48 - INFO - Initialized successfully.
+Dec 11 11:09:48 - INFO - Starting observer ssh.
+Dec 11 11:09:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:49 - INFO - Initialized successfully.
+Dec 11 11:09:49 - INFO - Starting observer ssh.
+Dec 11 11:09:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:50 - INFO - Initialized successfully.
+Dec 11 11:09:50 - INFO - Starting observer ssh.
+Dec 11 11:09:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:50 - INFO - Initialized successfully.
+Dec 11 11:09:50 - INFO - Starting observer ssh.
+Dec 11 11:09:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:51 - INFO - Initialized successfully.
+Dec 11 11:09:51 - INFO - Starting observer ssh.
+Dec 11 11:09:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:51 - INFO - Initialized successfully.
+Dec 11 11:09:51 - INFO - Starting observer ssh.
+Dec 11 11:09:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:52 - INFO - Initialized successfully.
+Dec 11 11:09:52 - INFO - Starting observer ssh.
+Dec 11 11:09:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:53 - INFO - Initialized successfully.
+Dec 11 11:09:53 - INFO - Starting observer ssh.
+Dec 11 11:09:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:53 - INFO - Initialized successfully.
+Dec 11 11:09:53 - INFO - Starting observer ssh.
+Dec 11 11:09:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:54 - INFO - Initialized successfully.
+Dec 11 11:09:54 - INFO - Starting observer ssh.
+Dec 11 11:09:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:55 - INFO - Initialized successfully.
+Dec 11 11:09:55 - INFO - Starting observer ssh.
+Dec 11 11:09:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:55 - INFO - Initialized successfully.
+Dec 11 11:09:55 - INFO - Starting observer ssh.
+Dec 11 11:09:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:56 - INFO - Initialized successfully.
+Dec 11 11:09:56 - INFO - Starting observer ssh.
+Dec 11 11:09:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:56 - INFO - Initialized successfully.
+Dec 11 11:09:56 - INFO - Starting observer ssh.
+Dec 11 11:09:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:57 - INFO - Initialized successfully.
+Dec 11 11:09:57 - INFO - Starting observer ssh.
+Dec 11 11:09:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:58 - INFO - Initialized successfully.
+Dec 11 11:09:58 - INFO - Starting observer ssh.
+Dec 11 11:09:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:58 - INFO - Initialized successfully.
+Dec 11 11:09:58 - INFO - Starting observer ssh.
+Dec 11 11:09:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:09:59 - INFO - Initialized successfully.
+Dec 11 11:09:59 - INFO - Starting observer ssh.
+Dec 11 11:09:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:00 - INFO - Initialized successfully.
+Dec 11 11:10:00 - INFO - Starting observer ssh.
+Dec 11 11:10:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:00 - INFO - Initialized successfully.
+Dec 11 11:10:00 - INFO - Starting observer ssh.
+Dec 11 11:10:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:01 - INFO - Initialized successfully.
+Dec 11 11:10:01 - INFO - Starting observer ssh.
+Dec 11 11:10:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:01 - INFO - Initialized successfully.
+Dec 11 11:10:01 - INFO - Starting observer ssh.
+Dec 11 11:10:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:02 - INFO - Initialized successfully.
+Dec 11 11:10:02 - INFO - Starting observer ssh.
+Dec 11 11:10:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:03 - INFO - Initialized successfully.
+Dec 11 11:10:03 - INFO - Starting observer ssh.
+Dec 11 11:10:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:03 - INFO - Initialized successfully.
+Dec 11 11:10:03 - INFO - Starting observer ssh.
+Dec 11 11:10:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:04 - INFO - Initialized successfully.
+Dec 11 11:10:04 - INFO - Starting observer ssh.
+Dec 11 11:10:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:05 - INFO - Initialized successfully.
+Dec 11 11:10:05 - INFO - Starting observer ssh.
+Dec 11 11:10:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:05 - INFO - Initialized successfully.
+Dec 11 11:10:05 - INFO - Starting observer ssh.
+Dec 11 11:10:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:06 - INFO - Initialized successfully.
+Dec 11 11:10:06 - INFO - Starting observer ssh.
+Dec 11 11:10:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:06 - INFO - Initialized successfully.
+Dec 11 11:10:06 - INFO - Starting observer ssh.
+Dec 11 11:10:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:07 - INFO - Initialized successfully.
+Dec 11 11:10:07 - INFO - Starting observer ssh.
+Dec 11 11:10:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:08 - INFO - Initialized successfully.
+Dec 11 11:10:08 - INFO - Starting observer ssh.
+Dec 11 11:10:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:08 - INFO - Initialized successfully.
+Dec 11 11:10:08 - INFO - Starting observer ssh.
+Dec 11 11:10:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:09 - INFO - Initialized successfully.
+Dec 11 11:10:09 - INFO - Starting observer ssh.
+Dec 11 11:10:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:09 - INFO - Initialized successfully.
+Dec 11 11:10:09 - INFO - Starting observer ssh.
+Dec 11 11:10:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:10 - INFO - Initialized successfully.
+Dec 11 11:10:10 - INFO - Starting observer ssh.
+Dec 11 11:10:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:11 - INFO - Initialized successfully.
+Dec 11 11:10:11 - INFO - Starting observer ssh.
+Dec 11 11:10:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:11 - INFO - Initialized successfully.
+Dec 11 11:10:11 - INFO - Starting observer ssh.
+Dec 11 11:10:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:12 - INFO - Initialized successfully.
+Dec 11 11:10:12 - INFO - Starting observer ssh.
+Dec 11 11:10:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:13 - INFO - Initialized successfully.
+Dec 11 11:10:13 - INFO - Starting observer ssh.
+Dec 11 11:10:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:13 - INFO - Initialized successfully.
+Dec 11 11:10:13 - INFO - Starting observer ssh.
+Dec 11 11:10:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:14 - INFO - Initialized successfully.
+Dec 11 11:10:14 - INFO - Starting observer ssh.
+Dec 11 11:10:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:14 - INFO - Initialized successfully.
+Dec 11 11:10:14 - INFO - Starting observer ssh.
+Dec 11 11:10:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:15 - INFO - Initialized successfully.
+Dec 11 11:10:15 - INFO - Starting observer ssh.
+Dec 11 11:10:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:16 - INFO - Initialized successfully.
+Dec 11 11:10:16 - INFO - Starting observer ssh.
+Dec 11 11:10:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:16 - INFO - Initialized successfully.
+Dec 11 11:10:16 - INFO - Starting observer ssh.
+Dec 11 11:10:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:17 - INFO - Initialized successfully.
+Dec 11 11:10:17 - INFO - Starting observer ssh.
+Dec 11 11:10:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:18 - INFO - Initialized successfully.
+Dec 11 11:10:18 - INFO - Starting observer ssh.
+Dec 11 11:10:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:18 - INFO - Initialized successfully.
+Dec 11 11:10:18 - INFO - Starting observer ssh.
+Dec 11 11:10:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:19 - INFO - Initialized successfully.
+Dec 11 11:10:19 - INFO - Starting observer ssh.
+Dec 11 11:10:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:19 - INFO - Initialized successfully.
+Dec 11 11:10:19 - INFO - Starting observer ssh.
+Dec 11 11:10:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:20 - INFO - Initialized successfully.
+Dec 11 11:10:20 - INFO - Starting observer ssh.
+Dec 11 11:10:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:21 - INFO - Initialized successfully.
+Dec 11 11:10:21 - INFO - Starting observer ssh.
+Dec 11 11:10:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:21 - INFO - Initialized successfully.
+Dec 11 11:10:21 - INFO - Starting observer ssh.
+Dec 11 11:10:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:22 - INFO - Initialized successfully.
+Dec 11 11:10:22 - INFO - Starting observer ssh.
+Dec 11 11:10:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:23 - INFO - Initialized successfully.
+Dec 11 11:10:23 - INFO - Starting observer ssh.
+Dec 11 11:10:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:23 - INFO - Initialized successfully.
+Dec 11 11:10:23 - INFO - Starting observer ssh.
+Dec 11 11:10:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:24 - INFO - Initialized successfully.
+Dec 11 11:10:24 - INFO - Starting observer ssh.
+Dec 11 11:10:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:24 - INFO - Initialized successfully.
+Dec 11 11:10:24 - INFO - Starting observer ssh.
+Dec 11 11:10:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:25 - INFO - Initialized successfully.
+Dec 11 11:10:25 - INFO - Starting observer ssh.
+Dec 11 11:10:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:26 - INFO - Initialized successfully.
+Dec 11 11:10:26 - INFO - Starting observer ssh.
+Dec 11 11:10:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:26 - INFO - Initialized successfully.
+Dec 11 11:10:26 - INFO - Starting observer ssh.
+Dec 11 11:10:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:27 - INFO - Initialized successfully.
+Dec 11 11:10:27 - INFO - Starting observer ssh.
+Dec 11 11:10:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:27 - INFO - Initialized successfully.
+Dec 11 11:10:27 - INFO - Starting observer ssh.
+Dec 11 11:10:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:28 - INFO - Initialized successfully.
+Dec 11 11:10:28 - INFO - Starting observer ssh.
+Dec 11 11:10:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:29 - INFO - Initialized successfully.
+Dec 11 11:10:29 - INFO - Starting observer ssh.
+Dec 11 11:10:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:29 - INFO - Initialized successfully.
+Dec 11 11:10:29 - INFO - Starting observer ssh.
+Dec 11 11:10:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:30 - INFO - Initialized successfully.
+Dec 11 11:10:30 - INFO - Starting observer ssh.
+Dec 11 11:10:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:31 - INFO - Initialized successfully.
+Dec 11 11:10:31 - INFO - Starting observer ssh.
+Dec 11 11:10:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:31 - INFO - Initialized successfully.
+Dec 11 11:10:31 - INFO - Starting observer ssh.
+Dec 11 11:10:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:32 - INFO - Initialized successfully.
+Dec 11 11:10:32 - INFO - Starting observer ssh.
+Dec 11 11:10:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:32 - INFO - Initialized successfully.
+Dec 11 11:10:32 - INFO - Starting observer ssh.
+Dec 11 11:10:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:33 - INFO - Initialized successfully.
+Dec 11 11:10:33 - INFO - Starting observer ssh.
+Dec 11 11:10:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:34 - INFO - Initialized successfully.
+Dec 11 11:10:34 - INFO - Starting observer ssh.
+Dec 11 11:10:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:34 - INFO - Initialized successfully.
+Dec 11 11:10:34 - INFO - Starting observer ssh.
+Dec 11 11:10:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:35 - INFO - Initialized successfully.
+Dec 11 11:10:35 - INFO - Starting observer ssh.
+Dec 11 11:10:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:36 - INFO - Initialized successfully.
+Dec 11 11:10:36 - INFO - Starting observer ssh.
+Dec 11 11:10:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:36 - INFO - Initialized successfully.
+Dec 11 11:10:36 - INFO - Starting observer ssh.
+Dec 11 11:10:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:37 - INFO - Initialized successfully.
+Dec 11 11:10:37 - INFO - Starting observer ssh.
+Dec 11 11:10:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:37 - INFO - Initialized successfully.
+Dec 11 11:10:37 - INFO - Starting observer ssh.
+Dec 11 11:10:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:38 - INFO - Initialized successfully.
+Dec 11 11:10:38 - INFO - Starting observer ssh.
+Dec 11 11:10:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:39 - INFO - Initialized successfully.
+Dec 11 11:10:39 - INFO - Starting observer ssh.
+Dec 11 11:10:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:39 - INFO - Initialized successfully.
+Dec 11 11:10:39 - INFO - Starting observer ssh.
+Dec 11 11:10:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:40 - INFO - Initialized successfully.
+Dec 11 11:10:40 - INFO - Starting observer ssh.
+Dec 11 11:10:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:41 - INFO - Initialized successfully.
+Dec 11 11:10:41 - INFO - Starting observer ssh.
+Dec 11 11:10:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:41 - INFO - Initialized successfully.
+Dec 11 11:10:41 - INFO - Starting observer ssh.
+Dec 11 11:10:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:42 - INFO - Initialized successfully.
+Dec 11 11:10:42 - INFO - Starting observer ssh.
+Dec 11 11:10:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:42 - INFO - Initialized successfully.
+Dec 11 11:10:42 - INFO - Starting observer ssh.
+Dec 11 11:10:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:43 - INFO - Initialized successfully.
+Dec 11 11:10:43 - INFO - Starting observer ssh.
+Dec 11 11:10:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:44 - INFO - Initialized successfully.
+Dec 11 11:10:44 - INFO - Starting observer ssh.
+Dec 11 11:10:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:44 - INFO - Initialized successfully.
+Dec 11 11:10:44 - INFO - Starting observer ssh.
+Dec 11 11:10:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:45 - INFO - Initialized successfully.
+Dec 11 11:10:45 - INFO - Starting observer ssh.
+Dec 11 11:10:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:45 - INFO - Initialized successfully.
+Dec 11 11:10:45 - INFO - Starting observer ssh.
+Dec 11 11:10:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:46 - INFO - Initialized successfully.
+Dec 11 11:10:46 - INFO - Starting observer ssh.
+Dec 11 11:10:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:47 - INFO - Initialized successfully.
+Dec 11 11:10:47 - INFO - Starting observer ssh.
+Dec 11 11:10:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:47 - INFO - Initialized successfully.
+Dec 11 11:10:47 - INFO - Starting observer ssh.
+Dec 11 11:10:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:48 - INFO - Initialized successfully.
+Dec 11 11:10:48 - INFO - Starting observer ssh.
+Dec 11 11:10:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:49 - INFO - Initialized successfully.
+Dec 11 11:10:49 - INFO - Starting observer ssh.
+Dec 11 11:10:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:49 - INFO - Initialized successfully.
+Dec 11 11:10:49 - INFO - Starting observer ssh.
+Dec 11 11:10:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:50 - INFO - Initialized successfully.
+Dec 11 11:10:50 - INFO - Starting observer ssh.
+Dec 11 11:10:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:50 - INFO - Initialized successfully.
+Dec 11 11:10:50 - INFO - Starting observer ssh.
+Dec 11 11:10:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:51 - INFO - Initialized successfully.
+Dec 11 11:10:51 - INFO - Starting observer ssh.
+Dec 11 11:10:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:52 - INFO - Initialized successfully.
+Dec 11 11:10:52 - INFO - Starting observer ssh.
+Dec 11 11:10:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:52 - INFO - Initialized successfully.
+Dec 11 11:10:52 - INFO - Starting observer ssh.
+Dec 11 11:10:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:53 - INFO - Initialized successfully.
+Dec 11 11:10:53 - INFO - Starting observer ssh.
+Dec 11 11:10:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:54 - INFO - Initialized successfully.
+Dec 11 11:10:54 - INFO - Starting observer ssh.
+Dec 11 11:10:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:54 - INFO - Initialized successfully.
+Dec 11 11:10:54 - INFO - Starting observer ssh.
+Dec 11 11:10:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:55 - INFO - Initialized successfully.
+Dec 11 11:10:55 - INFO - Starting observer ssh.
+Dec 11 11:10:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:55 - INFO - Initialized successfully.
+Dec 11 11:10:55 - INFO - Starting observer ssh.
+Dec 11 11:10:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:56 - INFO - Initialized successfully.
+Dec 11 11:10:56 - INFO - Starting observer ssh.
+Dec 11 11:10:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:57 - INFO - Initialized successfully.
+Dec 11 11:10:57 - INFO - Starting observer ssh.
+Dec 11 11:10:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:57 - INFO - Initialized successfully.
+Dec 11 11:10:57 - INFO - Starting observer ssh.
+Dec 11 11:10:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:58 - INFO - Initialized successfully.
+Dec 11 11:10:58 - INFO - Starting observer ssh.
+Dec 11 11:10:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:59 - INFO - Initialized successfully.
+Dec 11 11:10:59 - INFO - Starting observer ssh.
+Dec 11 11:10:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:10:59 - INFO - Initialized successfully.
+Dec 11 11:10:59 - INFO - Starting observer ssh.
+Dec 11 11:10:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:00 - INFO - Initialized successfully.
+Dec 11 11:11:00 - INFO - Starting observer ssh.
+Dec 11 11:11:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:00 - INFO - Initialized successfully.
+Dec 11 11:11:00 - INFO - Starting observer ssh.
+Dec 11 11:11:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:01 - INFO - Initialized successfully.
+Dec 11 11:11:01 - INFO - Starting observer ssh.
+Dec 11 11:11:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:02 - INFO - Initialized successfully.
+Dec 11 11:11:02 - INFO - Starting observer ssh.
+Dec 11 11:11:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:02 - INFO - Initialized successfully.
+Dec 11 11:11:02 - INFO - Starting observer ssh.
+Dec 11 11:11:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:03 - INFO - Initialized successfully.
+Dec 11 11:11:03 - INFO - Starting observer ssh.
+Dec 11 11:11:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:03 - INFO - Initialized successfully.
+Dec 11 11:11:03 - INFO - Starting observer ssh.
+Dec 11 11:11:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:04 - INFO - Initialized successfully.
+Dec 11 11:11:04 - INFO - Starting observer ssh.
+Dec 11 11:11:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:05 - INFO - Initialized successfully.
+Dec 11 11:11:05 - INFO - Starting observer ssh.
+Dec 11 11:11:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:05 - INFO - Initialized successfully.
+Dec 11 11:11:05 - INFO - Starting observer ssh.
+Dec 11 11:11:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:06 - INFO - Initialized successfully.
+Dec 11 11:11:06 - INFO - Starting observer ssh.
+Dec 11 11:11:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:07 - INFO - Initialized successfully.
+Dec 11 11:11:07 - INFO - Starting observer ssh.
+Dec 11 11:11:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:07 - INFO - Initialized successfully.
+Dec 11 11:11:07 - INFO - Starting observer ssh.
+Dec 11 11:11:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:08 - INFO - Initialized successfully.
+Dec 11 11:11:08 - INFO - Starting observer ssh.
+Dec 11 11:11:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:08 - INFO - Initialized successfully.
+Dec 11 11:11:08 - INFO - Starting observer ssh.
+Dec 11 11:11:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:09 - INFO - Initialized successfully.
+Dec 11 11:11:09 - INFO - Starting observer ssh.
+Dec 11 11:11:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:10 - INFO - Initialized successfully.
+Dec 11 11:11:10 - INFO - Starting observer ssh.
+Dec 11 11:11:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:10 - INFO - Initialized successfully.
+Dec 11 11:11:10 - INFO - Starting observer ssh.
+Dec 11 11:11:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:11 - INFO - Initialized successfully.
+Dec 11 11:11:11 - INFO - Starting observer ssh.
+Dec 11 11:11:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:12 - INFO - Initialized successfully.
+Dec 11 11:11:12 - INFO - Starting observer ssh.
+Dec 11 11:11:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:12 - INFO - Initialized successfully.
+Dec 11 11:11:12 - INFO - Starting observer ssh.
+Dec 11 11:11:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:13 - INFO - Initialized successfully.
+Dec 11 11:11:13 - INFO - Starting observer ssh.
+Dec 11 11:11:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:13 - INFO - Initialized successfully.
+Dec 11 11:11:13 - INFO - Starting observer ssh.
+Dec 11 11:11:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:14 - INFO - Initialized successfully.
+Dec 11 11:11:14 - INFO - Starting observer ssh.
+Dec 11 11:11:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:15 - INFO - Initialized successfully.
+Dec 11 11:11:15 - INFO - Starting observer ssh.
+Dec 11 11:11:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:15 - INFO - Initialized successfully.
+Dec 11 11:11:15 - INFO - Starting observer ssh.
+Dec 11 11:11:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:16 - INFO - Initialized successfully.
+Dec 11 11:11:16 - INFO - Starting observer ssh.
+Dec 11 11:11:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:16 - INFO - Initialized successfully.
+Dec 11 11:11:16 - INFO - Starting observer ssh.
+Dec 11 11:11:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:17 - INFO - Initialized successfully.
+Dec 11 11:11:17 - INFO - Starting observer ssh.
+Dec 11 11:11:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:18 - INFO - Initialized successfully.
+Dec 11 11:11:18 - INFO - Starting observer ssh.
+Dec 11 11:11:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:18 - INFO - Initialized successfully.
+Dec 11 11:11:18 - INFO - Starting observer ssh.
+Dec 11 11:11:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:19 - INFO - Initialized successfully.
+Dec 11 11:11:19 - INFO - Starting observer ssh.
+Dec 11 11:11:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:20 - INFO - Initialized successfully.
+Dec 11 11:11:20 - INFO - Starting observer ssh.
+Dec 11 11:11:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:20 - INFO - Initialized successfully.
+Dec 11 11:11:20 - INFO - Starting observer ssh.
+Dec 11 11:11:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:21 - INFO - Initialized successfully.
+Dec 11 11:11:21 - INFO - Starting observer ssh.
+Dec 11 11:11:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:21 - INFO - Initialized successfully.
+Dec 11 11:11:21 - INFO - Starting observer ssh.
+Dec 11 11:11:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:22 - INFO - Initialized successfully.
+Dec 11 11:11:22 - INFO - Starting observer ssh.
+Dec 11 11:11:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:23 - INFO - Initialized successfully.
+Dec 11 11:11:23 - INFO - Starting observer ssh.
+Dec 11 11:11:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:23 - INFO - Initialized successfully.
+Dec 11 11:11:23 - INFO - Starting observer ssh.
+Dec 11 11:11:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:24 - INFO - Initialized successfully.
+Dec 11 11:11:24 - INFO - Starting observer ssh.
+Dec 11 11:11:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:25 - INFO - Initialized successfully.
+Dec 11 11:11:25 - INFO - Starting observer ssh.
+Dec 11 11:11:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:25 - INFO - Initialized successfully.
+Dec 11 11:11:25 - INFO - Starting observer ssh.
+Dec 11 11:11:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:26 - INFO - Initialized successfully.
+Dec 11 11:11:26 - INFO - Starting observer ssh.
+Dec 11 11:11:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:26 - INFO - Initialized successfully.
+Dec 11 11:11:26 - INFO - Starting observer ssh.
+Dec 11 11:11:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:27 - INFO - Initialized successfully.
+Dec 11 11:11:27 - INFO - Starting observer ssh.
+Dec 11 11:11:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:28 - INFO - Initialized successfully.
+Dec 11 11:11:28 - INFO - Starting observer ssh.
+Dec 11 11:11:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:28 - INFO - Initialized successfully.
+Dec 11 11:11:28 - INFO - Starting observer ssh.
+Dec 11 11:11:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:29 - INFO - Initialized successfully.
+Dec 11 11:11:29 - INFO - Starting observer ssh.
+Dec 11 11:11:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:30 - INFO - Initialized successfully.
+Dec 11 11:11:30 - INFO - Starting observer ssh.
+Dec 11 11:11:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:30 - INFO - Initialized successfully.
+Dec 11 11:11:30 - INFO - Starting observer ssh.
+Dec 11 11:11:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:31 - INFO - Initialized successfully.
+Dec 11 11:11:31 - INFO - Starting observer ssh.
+Dec 11 11:11:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:32 - INFO - Initialized successfully.
+Dec 11 11:11:32 - INFO - Starting observer ssh.
+Dec 11 11:11:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:32 - INFO - Initialized successfully.
+Dec 11 11:11:32 - INFO - Starting observer ssh.
+Dec 11 11:11:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:33 - INFO - Initialized successfully.
+Dec 11 11:11:33 - INFO - Starting observer ssh.
+Dec 11 11:11:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:33 - INFO - Initialized successfully.
+Dec 11 11:11:33 - INFO - Starting observer ssh.
+Dec 11 11:11:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:34 - INFO - Initialized successfully.
+Dec 11 11:11:34 - INFO - Starting observer ssh.
+Dec 11 11:11:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:35 - INFO - Initialized successfully.
+Dec 11 11:11:35 - INFO - Starting observer ssh.
+Dec 11 11:11:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:35 - INFO - Initialized successfully.
+Dec 11 11:11:35 - INFO - Starting observer ssh.
+Dec 11 11:11:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:36 - INFO - Initialized successfully.
+Dec 11 11:11:36 - INFO - Starting observer ssh.
+Dec 11 11:11:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:37 - INFO - Initialized successfully.
+Dec 11 11:11:37 - INFO - Starting observer ssh.
+Dec 11 11:11:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:37 - INFO - Initialized successfully.
+Dec 11 11:11:37 - INFO - Starting observer ssh.
+Dec 11 11:11:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:38 - INFO - Initialized successfully.
+Dec 11 11:11:38 - INFO - Starting observer ssh.
+Dec 11 11:11:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:39 - INFO - Initialized successfully.
+Dec 11 11:11:39 - INFO - Starting observer ssh.
+Dec 11 11:11:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:39 - INFO - Initialized successfully.
+Dec 11 11:11:39 - INFO - Starting observer ssh.
+Dec 11 11:11:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:40 - INFO - Initialized successfully.
+Dec 11 11:11:40 - INFO - Starting observer ssh.
+Dec 11 11:11:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:40 - INFO - Initialized successfully.
+Dec 11 11:11:40 - INFO - Starting observer ssh.
+Dec 11 11:11:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:41 - INFO - Initialized successfully.
+Dec 11 11:11:41 - INFO - Starting observer ssh.
+Dec 11 11:11:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:42 - INFO - Initialized successfully.
+Dec 11 11:11:42 - INFO - Starting observer ssh.
+Dec 11 11:11:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:42 - INFO - Initialized successfully.
+Dec 11 11:11:42 - INFO - Starting observer ssh.
+Dec 11 11:11:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:43 - INFO - Initialized successfully.
+Dec 11 11:11:43 - INFO - Starting observer ssh.
+Dec 11 11:11:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:44 - INFO - Initialized successfully.
+Dec 11 11:11:44 - INFO - Starting observer ssh.
+Dec 11 11:11:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:45 - INFO - Initialized successfully.
+Dec 11 11:11:45 - INFO - Starting observer ssh.
+Dec 11 11:11:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:45 - INFO - Initialized successfully.
+Dec 11 11:11:45 - INFO - Starting observer ssh.
+Dec 11 11:11:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:46 - INFO - Initialized successfully.
+Dec 11 11:11:46 - INFO - Starting observer ssh.
+Dec 11 11:11:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:47 - INFO - Initialized successfully.
+Dec 11 11:11:47 - INFO - Starting observer ssh.
+Dec 11 11:11:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:47 - INFO - Initialized successfully.
+Dec 11 11:11:47 - INFO - Starting observer ssh.
+Dec 11 11:11:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:48 - INFO - Initialized successfully.
+Dec 11 11:11:48 - INFO - Starting observer ssh.
+Dec 11 11:11:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:49 - INFO - Initialized successfully.
+Dec 11 11:11:49 - INFO - Starting observer ssh.
+Dec 11 11:11:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:49 - INFO - Initialized successfully.
+Dec 11 11:11:49 - INFO - Starting observer ssh.
+Dec 11 11:11:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:50 - INFO - Initialized successfully.
+Dec 11 11:11:50 - INFO - Starting observer ssh.
+Dec 11 11:11:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:51 - INFO - Initialized successfully.
+Dec 11 11:11:51 - INFO - Starting observer ssh.
+Dec 11 11:11:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:51 - INFO - Initialized successfully.
+Dec 11 11:11:51 - INFO - Starting observer ssh.
+Dec 11 11:11:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:52 - INFO - Initialized successfully.
+Dec 11 11:11:52 - INFO - Starting observer ssh.
+Dec 11 11:11:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:53 - INFO - Initialized successfully.
+Dec 11 11:11:53 - INFO - Starting observer ssh.
+Dec 11 11:11:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:53 - INFO - Initialized successfully.
+Dec 11 11:11:53 - INFO - Starting observer ssh.
+Dec 11 11:11:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:54 - INFO - Initialized successfully.
+Dec 11 11:11:54 - INFO - Starting observer ssh.
+Dec 11 11:11:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:55 - INFO - Initialized successfully.
+Dec 11 11:11:55 - INFO - Starting observer ssh.
+Dec 11 11:11:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:55 - INFO - Initialized successfully.
+Dec 11 11:11:55 - INFO - Starting observer ssh.
+Dec 11 11:11:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:56 - INFO - Initialized successfully.
+Dec 11 11:11:56 - INFO - Starting observer ssh.
+Dec 11 11:11:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:57 - INFO - Initialized successfully.
+Dec 11 11:11:57 - INFO - Starting observer ssh.
+Dec 11 11:11:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:57 - INFO - Initialized successfully.
+Dec 11 11:11:57 - INFO - Starting observer ssh.
+Dec 11 11:11:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:58 - INFO - Initialized successfully.
+Dec 11 11:11:58 - INFO - Starting observer ssh.
+Dec 11 11:11:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:58 - INFO - Initialized successfully.
+Dec 11 11:11:58 - INFO - Starting observer ssh.
+Dec 11 11:11:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:11:59 - INFO - Initialized successfully.
+Dec 11 11:11:59 - INFO - Starting observer ssh.
+Dec 11 11:11:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:00 - INFO - Initialized successfully.
+Dec 11 11:12:00 - INFO - Starting observer ssh.
+Dec 11 11:12:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:00 - INFO - Initialized successfully.
+Dec 11 11:12:00 - INFO - Starting observer ssh.
+Dec 11 11:12:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:01 - INFO - Initialized successfully.
+Dec 11 11:12:01 - INFO - Starting observer ssh.
+Dec 11 11:12:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:02 - INFO - Initialized successfully.
+Dec 11 11:12:02 - INFO - Starting observer ssh.
+Dec 11 11:12:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:02 - INFO - Initialized successfully.
+Dec 11 11:12:02 - INFO - Starting observer ssh.
+Dec 11 11:12:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:03 - INFO - Initialized successfully.
+Dec 11 11:12:03 - INFO - Starting observer ssh.
+Dec 11 11:12:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:03 - INFO - Initialized successfully.
+Dec 11 11:12:03 - INFO - Starting observer ssh.
+Dec 11 11:12:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:04 - INFO - Initialized successfully.
+Dec 11 11:12:04 - INFO - Starting observer ssh.
+Dec 11 11:12:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:05 - INFO - Initialized successfully.
+Dec 11 11:12:05 - INFO - Starting observer ssh.
+Dec 11 11:12:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:05 - INFO - Initialized successfully.
+Dec 11 11:12:05 - INFO - Starting observer ssh.
+Dec 11 11:12:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:06 - INFO - Initialized successfully.
+Dec 11 11:12:06 - INFO - Starting observer ssh.
+Dec 11 11:12:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:07 - INFO - Initialized successfully.
+Dec 11 11:12:07 - INFO - Starting observer ssh.
+Dec 11 11:12:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:07 - INFO - Initialized successfully.
+Dec 11 11:12:07 - INFO - Starting observer ssh.
+Dec 11 11:12:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:08 - INFO - Initialized successfully.
+Dec 11 11:12:08 - INFO - Starting observer ssh.
+Dec 11 11:12:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:08 - INFO - Initialized successfully.
+Dec 11 11:12:08 - INFO - Starting observer ssh.
+Dec 11 11:12:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:09 - INFO - Initialized successfully.
+Dec 11 11:12:09 - INFO - Starting observer ssh.
+Dec 11 11:12:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:10 - INFO - Initialized successfully.
+Dec 11 11:12:10 - INFO - Starting observer ssh.
+Dec 11 11:12:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:10 - INFO - Initialized successfully.
+Dec 11 11:12:10 - INFO - Starting observer ssh.
+Dec 11 11:12:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:11 - INFO - Initialized successfully.
+Dec 11 11:12:11 - INFO - Starting observer ssh.
+Dec 11 11:12:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:12 - INFO - Initialized successfully.
+Dec 11 11:12:12 - INFO - Starting observer ssh.
+Dec 11 11:12:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:12 - INFO - Initialized successfully.
+Dec 11 11:12:12 - INFO - Starting observer ssh.
+Dec 11 11:12:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:13 - INFO - Initialized successfully.
+Dec 11 11:12:13 - INFO - Starting observer ssh.
+Dec 11 11:12:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:13 - INFO - Initialized successfully.
+Dec 11 11:12:13 - INFO - Starting observer ssh.
+Dec 11 11:12:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:14 - INFO - Initialized successfully.
+Dec 11 11:12:14 - INFO - Starting observer ssh.
+Dec 11 11:12:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:15 - INFO - Initialized successfully.
+Dec 11 11:12:15 - INFO - Starting observer ssh.
+Dec 11 11:12:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:15 - INFO - Initialized successfully.
+Dec 11 11:12:15 - INFO - Starting observer ssh.
+Dec 11 11:12:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:16 - INFO - Initialized successfully.
+Dec 11 11:12:16 - INFO - Starting observer ssh.
+Dec 11 11:12:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:17 - INFO - Initialized successfully.
+Dec 11 11:12:17 - INFO - Starting observer ssh.
+Dec 11 11:12:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:17 - INFO - Initialized successfully.
+Dec 11 11:12:17 - INFO - Starting observer ssh.
+Dec 11 11:12:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:18 - INFO - Initialized successfully.
+Dec 11 11:12:18 - INFO - Starting observer ssh.
+Dec 11 11:12:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:18 - INFO - Initialized successfully.
+Dec 11 11:12:18 - INFO - Starting observer ssh.
+Dec 11 11:12:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:19 - INFO - Initialized successfully.
+Dec 11 11:12:19 - INFO - Starting observer ssh.
+Dec 11 11:12:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:20 - INFO - Initialized successfully.
+Dec 11 11:12:20 - INFO - Starting observer ssh.
+Dec 11 11:12:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:20 - INFO - Initialized successfully.
+Dec 11 11:12:20 - INFO - Starting observer ssh.
+Dec 11 11:12:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:21 - INFO - Initialized successfully.
+Dec 11 11:12:21 - INFO - Starting observer ssh.
+Dec 11 11:12:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:22 - INFO - Initialized successfully.
+Dec 11 11:12:22 - INFO - Starting observer ssh.
+Dec 11 11:12:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:22 - INFO - Initialized successfully.
+Dec 11 11:12:22 - INFO - Starting observer ssh.
+Dec 11 11:12:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:23 - INFO - Initialized successfully.
+Dec 11 11:12:23 - INFO - Starting observer ssh.
+Dec 11 11:12:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:23 - INFO - Initialized successfully.
+Dec 11 11:12:23 - INFO - Starting observer ssh.
+Dec 11 11:12:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:24 - INFO - Initialized successfully.
+Dec 11 11:12:24 - INFO - Starting observer ssh.
+Dec 11 11:12:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:25 - INFO - Initialized successfully.
+Dec 11 11:12:25 - INFO - Starting observer ssh.
+Dec 11 11:12:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:25 - INFO - Initialized successfully.
+Dec 11 11:12:25 - INFO - Starting observer ssh.
+Dec 11 11:12:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:26 - INFO - Initialized successfully.
+Dec 11 11:12:26 - INFO - Starting observer ssh.
+Dec 11 11:12:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:27 - INFO - Initialized successfully.
+Dec 11 11:12:27 - INFO - Starting observer ssh.
+Dec 11 11:12:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:27 - INFO - Initialized successfully.
+Dec 11 11:12:27 - INFO - Starting observer ssh.
+Dec 11 11:12:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:28 - INFO - Initialized successfully.
+Dec 11 11:12:28 - INFO - Starting observer ssh.
+Dec 11 11:12:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:28 - INFO - Initialized successfully.
+Dec 11 11:12:28 - INFO - Starting observer ssh.
+Dec 11 11:12:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:29 - INFO - Initialized successfully.
+Dec 11 11:12:29 - INFO - Starting observer ssh.
+Dec 11 11:12:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:30 - INFO - Initialized successfully.
+Dec 11 11:12:30 - INFO - Starting observer ssh.
+Dec 11 11:12:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:30 - INFO - Initialized successfully.
+Dec 11 11:12:30 - INFO - Starting observer ssh.
+Dec 11 11:12:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:31 - INFO - Initialized successfully.
+Dec 11 11:12:31 - INFO - Starting observer ssh.
+Dec 11 11:12:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:32 - INFO - Initialized successfully.
+Dec 11 11:12:32 - INFO - Starting observer ssh.
+Dec 11 11:12:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:32 - INFO - Initialized successfully.
+Dec 11 11:12:32 - INFO - Starting observer ssh.
+Dec 11 11:12:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:33 - INFO - Initialized successfully.
+Dec 11 11:12:33 - INFO - Starting observer ssh.
+Dec 11 11:12:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:33 - INFO - Initialized successfully.
+Dec 11 11:12:33 - INFO - Starting observer ssh.
+Dec 11 11:12:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:34 - INFO - Initialized successfully.
+Dec 11 11:12:34 - INFO - Starting observer ssh.
+Dec 11 11:12:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:35 - INFO - Initialized successfully.
+Dec 11 11:12:35 - INFO - Starting observer ssh.
+Dec 11 11:12:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:35 - INFO - Initialized successfully.
+Dec 11 11:12:35 - INFO - Starting observer ssh.
+Dec 11 11:12:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:36 - INFO - Initialized successfully.
+Dec 11 11:12:36 - INFO - Starting observer ssh.
+Dec 11 11:12:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:37 - INFO - Initialized successfully.
+Dec 11 11:12:37 - INFO - Starting observer ssh.
+Dec 11 11:12:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:37 - INFO - Initialized successfully.
+Dec 11 11:12:37 - INFO - Starting observer ssh.
+Dec 11 11:12:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:38 - INFO - Initialized successfully.
+Dec 11 11:12:38 - INFO - Starting observer ssh.
+Dec 11 11:12:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:38 - INFO - Initialized successfully.
+Dec 11 11:12:38 - INFO - Starting observer ssh.
+Dec 11 11:12:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:39 - INFO - Initialized successfully.
+Dec 11 11:12:39 - INFO - Starting observer ssh.
+Dec 11 11:12:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:40 - INFO - Initialized successfully.
+Dec 11 11:12:40 - INFO - Starting observer ssh.
+Dec 11 11:12:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:40 - INFO - Initialized successfully.
+Dec 11 11:12:40 - INFO - Starting observer ssh.
+Dec 11 11:12:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:41 - INFO - Initialized successfully.
+Dec 11 11:12:41 - INFO - Starting observer ssh.
+Dec 11 11:12:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:42 - INFO - Initialized successfully.
+Dec 11 11:12:42 - INFO - Starting observer ssh.
+Dec 11 11:12:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:42 - INFO - Initialized successfully.
+Dec 11 11:12:42 - INFO - Starting observer ssh.
+Dec 11 11:12:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:43 - INFO - Initialized successfully.
+Dec 11 11:12:43 - INFO - Starting observer ssh.
+Dec 11 11:12:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:44 - INFO - Initialized successfully.
+Dec 11 11:12:44 - INFO - Starting observer ssh.
+Dec 11 11:12:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:45 - INFO - Initialized successfully.
+Dec 11 11:12:45 - INFO - Starting observer ssh.
+Dec 11 11:12:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:45 - INFO - Initialized successfully.
+Dec 11 11:12:45 - INFO - Starting observer ssh.
+Dec 11 11:12:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:46 - INFO - Initialized successfully.
+Dec 11 11:12:46 - INFO - Starting observer ssh.
+Dec 11 11:12:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:46 - INFO - Initialized successfully.
+Dec 11 11:12:46 - INFO - Starting observer ssh.
+Dec 11 11:12:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:47 - INFO - Initialized successfully.
+Dec 11 11:12:47 - INFO - Starting observer ssh.
+Dec 11 11:12:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:48 - INFO - Initialized successfully.
+Dec 11 11:12:48 - INFO - Starting observer ssh.
+Dec 11 11:12:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:48 - INFO - Initialized successfully.
+Dec 11 11:12:48 - INFO - Starting observer ssh.
+Dec 11 11:12:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:49 - INFO - Initialized successfully.
+Dec 11 11:12:49 - INFO - Starting observer ssh.
+Dec 11 11:12:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:50 - INFO - Initialized successfully.
+Dec 11 11:12:50 - INFO - Starting observer ssh.
+Dec 11 11:12:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:50 - INFO - Initialized successfully.
+Dec 11 11:12:50 - INFO - Starting observer ssh.
+Dec 11 11:12:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:51 - INFO - Initialized successfully.
+Dec 11 11:12:51 - INFO - Starting observer ssh.
+Dec 11 11:12:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:51 - INFO - Initialized successfully.
+Dec 11 11:12:51 - INFO - Starting observer ssh.
+Dec 11 11:12:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:52 - INFO - Initialized successfully.
+Dec 11 11:12:52 - INFO - Starting observer ssh.
+Dec 11 11:12:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:53 - INFO - Initialized successfully.
+Dec 11 11:12:53 - INFO - Starting observer ssh.
+Dec 11 11:12:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:53 - INFO - Initialized successfully.
+Dec 11 11:12:53 - INFO - Starting observer ssh.
+Dec 11 11:12:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:54 - INFO - Initialized successfully.
+Dec 11 11:12:54 - INFO - Starting observer ssh.
+Dec 11 11:12:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:55 - INFO - Initialized successfully.
+Dec 11 11:12:55 - INFO - Starting observer ssh.
+Dec 11 11:12:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:55 - INFO - Initialized successfully.
+Dec 11 11:12:55 - INFO - Starting observer ssh.
+Dec 11 11:12:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:56 - INFO - Initialized successfully.
+Dec 11 11:12:56 - INFO - Starting observer ssh.
+Dec 11 11:12:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:56 - INFO - Initialized successfully.
+Dec 11 11:12:56 - INFO - Starting observer ssh.
+Dec 11 11:12:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:57 - INFO - Initialized successfully.
+Dec 11 11:12:57 - INFO - Starting observer ssh.
+Dec 11 11:12:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:58 - INFO - Initialized successfully.
+Dec 11 11:12:58 - INFO - Starting observer ssh.
+Dec 11 11:12:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:58 - INFO - Initialized successfully.
+Dec 11 11:12:58 - INFO - Starting observer ssh.
+Dec 11 11:12:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:12:59 - INFO - Initialized successfully.
+Dec 11 11:12:59 - INFO - Starting observer ssh.
+Dec 11 11:12:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:00 - INFO - Initialized successfully.
+Dec 11 11:13:00 - INFO - Starting observer ssh.
+Dec 11 11:13:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:00 - INFO - Initialized successfully.
+Dec 11 11:13:00 - INFO - Starting observer ssh.
+Dec 11 11:13:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:01 - INFO - Initialized successfully.
+Dec 11 11:13:01 - INFO - Starting observer ssh.
+Dec 11 11:13:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:01 - INFO - Initialized successfully.
+Dec 11 11:13:01 - INFO - Starting observer ssh.
+Dec 11 11:13:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:02 - INFO - Initialized successfully.
+Dec 11 11:13:02 - INFO - Starting observer ssh.
+Dec 11 11:13:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:03 - INFO - Initialized successfully.
+Dec 11 11:13:03 - INFO - Starting observer ssh.
+Dec 11 11:13:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:03 - INFO - Initialized successfully.
+Dec 11 11:13:03 - INFO - Starting observer ssh.
+Dec 11 11:13:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:04 - INFO - Initialized successfully.
+Dec 11 11:13:04 - INFO - Starting observer ssh.
+Dec 11 11:13:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:05 - INFO - Initialized successfully.
+Dec 11 11:13:05 - INFO - Starting observer ssh.
+Dec 11 11:13:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:05 - INFO - Initialized successfully.
+Dec 11 11:13:05 - INFO - Starting observer ssh.
+Dec 11 11:13:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:06 - INFO - Initialized successfully.
+Dec 11 11:13:06 - INFO - Starting observer ssh.
+Dec 11 11:13:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:06 - INFO - Initialized successfully.
+Dec 11 11:13:06 - INFO - Starting observer ssh.
+Dec 11 11:13:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:07 - INFO - Initialized successfully.
+Dec 11 11:13:07 - INFO - Starting observer ssh.
+Dec 11 11:13:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:08 - INFO - Initialized successfully.
+Dec 11 11:13:08 - INFO - Starting observer ssh.
+Dec 11 11:13:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:08 - INFO - Initialized successfully.
+Dec 11 11:13:08 - INFO - Starting observer ssh.
+Dec 11 11:13:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:09 - INFO - Initialized successfully.
+Dec 11 11:13:09 - INFO - Starting observer ssh.
+Dec 11 11:13:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:10 - INFO - Initialized successfully.
+Dec 11 11:13:10 - INFO - Starting observer ssh.
+Dec 11 11:13:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:10 - INFO - Initialized successfully.
+Dec 11 11:13:10 - INFO - Starting observer ssh.
+Dec 11 11:13:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:11 - INFO - Initialized successfully.
+Dec 11 11:13:11 - INFO - Starting observer ssh.
+Dec 11 11:13:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:11 - INFO - Initialized successfully.
+Dec 11 11:13:11 - INFO - Starting observer ssh.
+Dec 11 11:13:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:12 - INFO - Initialized successfully.
+Dec 11 11:13:12 - INFO - Starting observer ssh.
+Dec 11 11:13:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:13 - INFO - Initialized successfully.
+Dec 11 11:13:13 - INFO - Starting observer ssh.
+Dec 11 11:13:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:13 - INFO - Initialized successfully.
+Dec 11 11:13:13 - INFO - Starting observer ssh.
+Dec 11 11:13:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:14 - INFO - Initialized successfully.
+Dec 11 11:13:14 - INFO - Starting observer ssh.
+Dec 11 11:13:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:15 - INFO - Initialized successfully.
+Dec 11 11:13:15 - INFO - Starting observer ssh.
+Dec 11 11:13:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:15 - INFO - Initialized successfully.
+Dec 11 11:13:15 - INFO - Starting observer ssh.
+Dec 11 11:13:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:16 - INFO - Initialized successfully.
+Dec 11 11:13:16 - INFO - Starting observer ssh.
+Dec 11 11:13:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:16 - INFO - Initialized successfully.
+Dec 11 11:13:16 - INFO - Starting observer ssh.
+Dec 11 11:13:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:17 - INFO - Initialized successfully.
+Dec 11 11:13:17 - INFO - Starting observer ssh.
+Dec 11 11:13:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:18 - INFO - Initialized successfully.
+Dec 11 11:13:18 - INFO - Starting observer ssh.
+Dec 11 11:13:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:18 - INFO - Initialized successfully.
+Dec 11 11:13:18 - INFO - Starting observer ssh.
+Dec 11 11:13:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:19 - INFO - Initialized successfully.
+Dec 11 11:13:19 - INFO - Starting observer ssh.
+Dec 11 11:13:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:20 - INFO - Initialized successfully.
+Dec 11 11:13:20 - INFO - Starting observer ssh.
+Dec 11 11:13:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:20 - INFO - Initialized successfully.
+Dec 11 11:13:20 - INFO - Starting observer ssh.
+Dec 11 11:13:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:21 - INFO - Initialized successfully.
+Dec 11 11:13:21 - INFO - Starting observer ssh.
+Dec 11 11:13:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:21 - INFO - Initialized successfully.
+Dec 11 11:13:21 - INFO - Starting observer ssh.
+Dec 11 11:13:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:22 - INFO - Initialized successfully.
+Dec 11 11:13:22 - INFO - Starting observer ssh.
+Dec 11 11:13:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:23 - INFO - Initialized successfully.
+Dec 11 11:13:23 - INFO - Starting observer ssh.
+Dec 11 11:13:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:23 - INFO - Initialized successfully.
+Dec 11 11:13:23 - INFO - Starting observer ssh.
+Dec 11 11:13:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:24 - INFO - Initialized successfully.
+Dec 11 11:13:24 - INFO - Starting observer ssh.
+Dec 11 11:13:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:25 - INFO - Initialized successfully.
+Dec 11 11:13:25 - INFO - Starting observer ssh.
+Dec 11 11:13:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:25 - INFO - Initialized successfully.
+Dec 11 11:13:25 - INFO - Starting observer ssh.
+Dec 11 11:13:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:26 - INFO - Initialized successfully.
+Dec 11 11:13:26 - INFO - Starting observer ssh.
+Dec 11 11:13:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:26 - INFO - Initialized successfully.
+Dec 11 11:13:26 - INFO - Starting observer ssh.
+Dec 11 11:13:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:27 - INFO - Initialized successfully.
+Dec 11 11:13:27 - INFO - Starting observer ssh.
+Dec 11 11:13:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:28 - INFO - Initialized successfully.
+Dec 11 11:13:28 - INFO - Starting observer ssh.
+Dec 11 11:13:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:28 - INFO - Initialized successfully.
+Dec 11 11:13:28 - INFO - Starting observer ssh.
+Dec 11 11:13:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:29 - INFO - Initialized successfully.
+Dec 11 11:13:29 - INFO - Starting observer ssh.
+Dec 11 11:13:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:30 - INFO - Initialized successfully.
+Dec 11 11:13:30 - INFO - Starting observer ssh.
+Dec 11 11:13:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:30 - INFO - Initialized successfully.
+Dec 11 11:13:30 - INFO - Starting observer ssh.
+Dec 11 11:13:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:31 - INFO - Initialized successfully.
+Dec 11 11:13:31 - INFO - Starting observer ssh.
+Dec 11 11:13:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:31 - INFO - Initialized successfully.
+Dec 11 11:13:31 - INFO - Starting observer ssh.
+Dec 11 11:13:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:32 - INFO - Initialized successfully.
+Dec 11 11:13:32 - INFO - Starting observer ssh.
+Dec 11 11:13:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:33 - INFO - Initialized successfully.
+Dec 11 11:13:33 - INFO - Starting observer ssh.
+Dec 11 11:13:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:33 - INFO - Initialized successfully.
+Dec 11 11:13:33 - INFO - Starting observer ssh.
+Dec 11 11:13:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:34 - INFO - Initialized successfully.
+Dec 11 11:13:34 - INFO - Starting observer ssh.
+Dec 11 11:13:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:35 - INFO - Initialized successfully.
+Dec 11 11:13:35 - INFO - Starting observer ssh.
+Dec 11 11:13:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:35 - INFO - Initialized successfully.
+Dec 11 11:13:35 - INFO - Starting observer ssh.
+Dec 11 11:13:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:36 - INFO - Initialized successfully.
+Dec 11 11:13:36 - INFO - Starting observer ssh.
+Dec 11 11:13:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:36 - INFO - Initialized successfully.
+Dec 11 11:13:36 - INFO - Starting observer ssh.
+Dec 11 11:13:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:37 - INFO - Initialized successfully.
+Dec 11 11:13:37 - INFO - Starting observer ssh.
+Dec 11 11:13:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:38 - INFO - Initialized successfully.
+Dec 11 11:13:38 - INFO - Starting observer ssh.
+Dec 11 11:13:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:38 - INFO - Initialized successfully.
+Dec 11 11:13:38 - INFO - Starting observer ssh.
+Dec 11 11:13:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:39 - INFO - Initialized successfully.
+Dec 11 11:13:39 - INFO - Starting observer ssh.
+Dec 11 11:13:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:40 - INFO - Initialized successfully.
+Dec 11 11:13:40 - INFO - Starting observer ssh.
+Dec 11 11:13:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:40 - INFO - Initialized successfully.
+Dec 11 11:13:40 - INFO - Starting observer ssh.
+Dec 11 11:13:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:41 - INFO - Initialized successfully.
+Dec 11 11:13:41 - INFO - Starting observer ssh.
+Dec 11 11:13:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:41 - INFO - Initialized successfully.
+Dec 11 11:13:41 - INFO - Starting observer ssh.
+Dec 11 11:13:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:42 - INFO - Initialized successfully.
+Dec 11 11:13:42 - INFO - Starting observer ssh.
+Dec 11 11:13:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:43 - INFO - Initialized successfully.
+Dec 11 11:13:43 - INFO - Starting observer ssh.
+Dec 11 11:13:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:43 - INFO - Initialized successfully.
+Dec 11 11:13:43 - INFO - Starting observer ssh.
+Dec 11 11:13:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:44 - INFO - Initialized successfully.
+Dec 11 11:13:44 - INFO - Starting observer ssh.
+Dec 11 11:13:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:45 - INFO - Initialized successfully.
+Dec 11 11:13:45 - INFO - Starting observer ssh.
+Dec 11 11:13:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:45 - INFO - Initialized successfully.
+Dec 11 11:13:45 - INFO - Starting observer ssh.
+Dec 11 11:13:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:46 - INFO - Initialized successfully.
+Dec 11 11:13:46 - INFO - Starting observer ssh.
+Dec 11 11:13:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:46 - INFO - Initialized successfully.
+Dec 11 11:13:46 - INFO - Starting observer ssh.
+Dec 11 11:13:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:47 - INFO - Initialized successfully.
+Dec 11 11:13:47 - INFO - Starting observer ssh.
+Dec 11 11:13:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:48 - INFO - Initialized successfully.
+Dec 11 11:13:48 - INFO - Starting observer ssh.
+Dec 11 11:13:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:48 - INFO - Initialized successfully.
+Dec 11 11:13:48 - INFO - Starting observer ssh.
+Dec 11 11:13:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:49 - INFO - Initialized successfully.
+Dec 11 11:13:49 - INFO - Starting observer ssh.
+Dec 11 11:13:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:49 - INFO - Initialized successfully.
+Dec 11 11:13:49 - INFO - Starting observer ssh.
+Dec 11 11:13:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:50 - INFO - Initialized successfully.
+Dec 11 11:13:50 - INFO - Starting observer ssh.
+Dec 11 11:13:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:51 - INFO - Initialized successfully.
+Dec 11 11:13:51 - INFO - Starting observer ssh.
+Dec 11 11:13:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:51 - INFO - Initialized successfully.
+Dec 11 11:13:51 - INFO - Starting observer ssh.
+Dec 11 11:13:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:52 - INFO - Initialized successfully.
+Dec 11 11:13:52 - INFO - Starting observer ssh.
+Dec 11 11:13:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:53 - INFO - Initialized successfully.
+Dec 11 11:13:53 - INFO - Starting observer ssh.
+Dec 11 11:13:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:53 - INFO - Initialized successfully.
+Dec 11 11:13:53 - INFO - Starting observer ssh.
+Dec 11 11:13:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:54 - INFO - Initialized successfully.
+Dec 11 11:13:54 - INFO - Starting observer ssh.
+Dec 11 11:13:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:54 - INFO - Initialized successfully.
+Dec 11 11:13:54 - INFO - Starting observer ssh.
+Dec 11 11:13:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:55 - INFO - Initialized successfully.
+Dec 11 11:13:55 - INFO - Starting observer ssh.
+Dec 11 11:13:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:56 - INFO - Initialized successfully.
+Dec 11 11:13:56 - INFO - Starting observer ssh.
+Dec 11 11:13:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:56 - INFO - Initialized successfully.
+Dec 11 11:13:56 - INFO - Starting observer ssh.
+Dec 11 11:13:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:57 - INFO - Initialized successfully.
+Dec 11 11:13:57 - INFO - Starting observer ssh.
+Dec 11 11:13:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:58 - INFO - Initialized successfully.
+Dec 11 11:13:58 - INFO - Starting observer ssh.
+Dec 11 11:13:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:58 - INFO - Initialized successfully.
+Dec 11 11:13:58 - INFO - Starting observer ssh.
+Dec 11 11:13:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:59 - INFO - Initialized successfully.
+Dec 11 11:13:59 - INFO - Starting observer ssh.
+Dec 11 11:13:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:13:59 - INFO - Initialized successfully.
+Dec 11 11:13:59 - INFO - Starting observer ssh.
+Dec 11 11:13:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:00 - INFO - Initialized successfully.
+Dec 11 11:14:00 - INFO - Starting observer ssh.
+Dec 11 11:14:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:01 - INFO - Initialized successfully.
+Dec 11 11:14:01 - INFO - Starting observer ssh.
+Dec 11 11:14:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:01 - INFO - Initialized successfully.
+Dec 11 11:14:01 - INFO - Starting observer ssh.
+Dec 11 11:14:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:02 - INFO - Initialized successfully.
+Dec 11 11:14:02 - INFO - Starting observer ssh.
+Dec 11 11:14:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:03 - INFO - Initialized successfully.
+Dec 11 11:14:03 - INFO - Starting observer ssh.
+Dec 11 11:14:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:03 - INFO - Initialized successfully.
+Dec 11 11:14:03 - INFO - Starting observer ssh.
+Dec 11 11:14:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:04 - INFO - Initialized successfully.
+Dec 11 11:14:04 - INFO - Starting observer ssh.
+Dec 11 11:14:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:04 - INFO - Initialized successfully.
+Dec 11 11:14:04 - INFO - Starting observer ssh.
+Dec 11 11:14:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:05 - INFO - Initialized successfully.
+Dec 11 11:14:05 - INFO - Starting observer ssh.
+Dec 11 11:14:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:06 - INFO - Initialized successfully.
+Dec 11 11:14:06 - INFO - Starting observer ssh.
+Dec 11 11:14:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:06 - INFO - Initialized successfully.
+Dec 11 11:14:06 - INFO - Starting observer ssh.
+Dec 11 11:14:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:07 - INFO - Initialized successfully.
+Dec 11 11:14:07 - INFO - Starting observer ssh.
+Dec 11 11:14:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:08 - INFO - Initialized successfully.
+Dec 11 11:14:08 - INFO - Starting observer ssh.
+Dec 11 11:14:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:08 - INFO - Initialized successfully.
+Dec 11 11:14:08 - INFO - Starting observer ssh.
+Dec 11 11:14:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:09 - INFO - Initialized successfully.
+Dec 11 11:14:09 - INFO - Starting observer ssh.
+Dec 11 11:14:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:10 - INFO - Initialized successfully.
+Dec 11 11:14:10 - INFO - Starting observer ssh.
+Dec 11 11:14:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:10 - INFO - Initialized successfully.
+Dec 11 11:14:10 - INFO - Starting observer ssh.
+Dec 11 11:14:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:11 - INFO - Initialized successfully.
+Dec 11 11:14:11 - INFO - Starting observer ssh.
+Dec 11 11:14:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:12 - INFO - Initialized successfully.
+Dec 11 11:14:12 - INFO - Starting observer ssh.
+Dec 11 11:14:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:12 - INFO - Initialized successfully.
+Dec 11 11:14:12 - INFO - Starting observer ssh.
+Dec 11 11:14:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:13 - INFO - Initialized successfully.
+Dec 11 11:14:13 - INFO - Starting observer ssh.
+Dec 11 11:14:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:14 - INFO - Initialized successfully.
+Dec 11 11:14:14 - INFO - Starting observer ssh.
+Dec 11 11:14:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:14 - INFO - Initialized successfully.
+Dec 11 11:14:14 - INFO - Starting observer ssh.
+Dec 11 11:14:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:15 - INFO - Initialized successfully.
+Dec 11 11:14:15 - INFO - Starting observer ssh.
+Dec 11 11:14:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:16 - INFO - Initialized successfully.
+Dec 11 11:14:16 - INFO - Starting observer ssh.
+Dec 11 11:14:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:16 - INFO - Initialized successfully.
+Dec 11 11:14:16 - INFO - Starting observer ssh.
+Dec 11 11:14:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:17 - INFO - Initialized successfully.
+Dec 11 11:14:17 - INFO - Starting observer ssh.
+Dec 11 11:14:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:18 - INFO - Initialized successfully.
+Dec 11 11:14:18 - INFO - Starting observer ssh.
+Dec 11 11:14:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:18 - INFO - Initialized successfully.
+Dec 11 11:14:18 - INFO - Starting observer ssh.
+Dec 11 11:14:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:19 - INFO - Initialized successfully.
+Dec 11 11:14:19 - INFO - Starting observer ssh.
+Dec 11 11:14:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:19 - INFO - Initialized successfully.
+Dec 11 11:14:19 - INFO - Starting observer ssh.
+Dec 11 11:14:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:20 - INFO - Initialized successfully.
+Dec 11 11:14:20 - INFO - Starting observer ssh.
+Dec 11 11:14:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:21 - INFO - Initialized successfully.
+Dec 11 11:14:21 - INFO - Starting observer ssh.
+Dec 11 11:14:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:21 - INFO - Initialized successfully.
+Dec 11 11:14:21 - INFO - Starting observer ssh.
+Dec 11 11:14:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:22 - INFO - Initialized successfully.
+Dec 11 11:14:22 - INFO - Starting observer ssh.
+Dec 11 11:14:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:23 - INFO - Initialized successfully.
+Dec 11 11:14:23 - INFO - Starting observer ssh.
+Dec 11 11:14:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:23 - INFO - Initialized successfully.
+Dec 11 11:14:23 - INFO - Starting observer ssh.
+Dec 11 11:14:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:24 - INFO - Initialized successfully.
+Dec 11 11:14:24 - INFO - Starting observer ssh.
+Dec 11 11:14:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:24 - INFO - Initialized successfully.
+Dec 11 11:14:24 - INFO - Starting observer ssh.
+Dec 11 11:14:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:25 - INFO - Initialized successfully.
+Dec 11 11:14:25 - INFO - Starting observer ssh.
+Dec 11 11:14:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:26 - INFO - Initialized successfully.
+Dec 11 11:14:26 - INFO - Starting observer ssh.
+Dec 11 11:14:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:26 - INFO - Initialized successfully.
+Dec 11 11:14:26 - INFO - Starting observer ssh.
+Dec 11 11:14:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:27 - INFO - Initialized successfully.
+Dec 11 11:14:27 - INFO - Starting observer ssh.
+Dec 11 11:14:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:28 - INFO - Initialized successfully.
+Dec 11 11:14:28 - INFO - Starting observer ssh.
+Dec 11 11:14:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:28 - INFO - Initialized successfully.
+Dec 11 11:14:28 - INFO - Starting observer ssh.
+Dec 11 11:14:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:29 - INFO - Initialized successfully.
+Dec 11 11:14:29 - INFO - Starting observer ssh.
+Dec 11 11:14:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:30 - INFO - Initialized successfully.
+Dec 11 11:14:30 - INFO - Starting observer ssh.
+Dec 11 11:14:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:30 - INFO - Initialized successfully.
+Dec 11 11:14:30 - INFO - Starting observer ssh.
+Dec 11 11:14:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:31 - INFO - Initialized successfully.
+Dec 11 11:14:31 - INFO - Starting observer ssh.
+Dec 11 11:14:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:32 - INFO - Initialized successfully.
+Dec 11 11:14:32 - INFO - Starting observer ssh.
+Dec 11 11:14:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:32 - INFO - Initialized successfully.
+Dec 11 11:14:32 - INFO - Starting observer ssh.
+Dec 11 11:14:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:33 - INFO - Initialized successfully.
+Dec 11 11:14:33 - INFO - Starting observer ssh.
+Dec 11 11:14:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:34 - INFO - Initialized successfully.
+Dec 11 11:14:34 - INFO - Starting observer ssh.
+Dec 11 11:14:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:34 - INFO - Initialized successfully.
+Dec 11 11:14:34 - INFO - Starting observer ssh.
+Dec 11 11:14:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:35 - INFO - Initialized successfully.
+Dec 11 11:14:35 - INFO - Starting observer ssh.
+Dec 11 11:14:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:36 - INFO - Initialized successfully.
+Dec 11 11:14:36 - INFO - Starting observer ssh.
+Dec 11 11:14:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:36 - INFO - Initialized successfully.
+Dec 11 11:14:36 - INFO - Starting observer ssh.
+Dec 11 11:14:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:37 - INFO - Initialized successfully.
+Dec 11 11:14:37 - INFO - Starting observer ssh.
+Dec 11 11:14:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:38 - INFO - Initialized successfully.
+Dec 11 11:14:38 - INFO - Starting observer ssh.
+Dec 11 11:14:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:38 - INFO - Initialized successfully.
+Dec 11 11:14:38 - INFO - Starting observer ssh.
+Dec 11 11:14:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:39 - INFO - Initialized successfully.
+Dec 11 11:14:39 - INFO - Starting observer ssh.
+Dec 11 11:14:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:40 - INFO - Initialized successfully.
+Dec 11 11:14:40 - INFO - Starting observer ssh.
+Dec 11 11:14:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:40 - INFO - Initialized successfully.
+Dec 11 11:14:40 - INFO - Starting observer ssh.
+Dec 11 11:14:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:41 - INFO - Initialized successfully.
+Dec 11 11:14:41 - INFO - Starting observer ssh.
+Dec 11 11:14:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:42 - INFO - Initialized successfully.
+Dec 11 11:14:42 - INFO - Starting observer ssh.
+Dec 11 11:14:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:42 - INFO - Initialized successfully.
+Dec 11 11:14:42 - INFO - Starting observer ssh.
+Dec 11 11:14:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:43 - INFO - Initialized successfully.
+Dec 11 11:14:43 - INFO - Starting observer ssh.
+Dec 11 11:14:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:44 - INFO - Initialized successfully.
+Dec 11 11:14:44 - INFO - Starting observer ssh.
+Dec 11 11:14:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:44 - INFO - Initialized successfully.
+Dec 11 11:14:44 - INFO - Starting observer ssh.
+Dec 11 11:14:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:45 - INFO - Initialized successfully.
+Dec 11 11:14:45 - INFO - Starting observer ssh.
+Dec 11 11:14:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:45 - INFO - Initialized successfully.
+Dec 11 11:14:45 - INFO - Starting observer ssh.
+Dec 11 11:14:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:46 - INFO - Initialized successfully.
+Dec 11 11:14:46 - INFO - Starting observer ssh.
+Dec 11 11:14:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:47 - INFO - Initialized successfully.
+Dec 11 11:14:47 - INFO - Starting observer ssh.
+Dec 11 11:14:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:47 - INFO - Initialized successfully.
+Dec 11 11:14:47 - INFO - Starting observer ssh.
+Dec 11 11:14:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:48 - INFO - Initialized successfully.
+Dec 11 11:14:48 - INFO - Starting observer ssh.
+Dec 11 11:14:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:49 - INFO - Initialized successfully.
+Dec 11 11:14:49 - INFO - Starting observer ssh.
+Dec 11 11:14:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:49 - INFO - Initialized successfully.
+Dec 11 11:14:49 - INFO - Starting observer ssh.
+Dec 11 11:14:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:50 - INFO - Initialized successfully.
+Dec 11 11:14:50 - INFO - Starting observer ssh.
+Dec 11 11:14:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:51 - INFO - Initialized successfully.
+Dec 11 11:14:51 - INFO - Starting observer ssh.
+Dec 11 11:14:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:51 - INFO - Initialized successfully.
+Dec 11 11:14:51 - INFO - Starting observer ssh.
+Dec 11 11:14:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:52 - INFO - Initialized successfully.
+Dec 11 11:14:52 - INFO - Starting observer ssh.
+Dec 11 11:14:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:53 - INFO - Initialized successfully.
+Dec 11 11:14:53 - INFO - Starting observer ssh.
+Dec 11 11:14:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:53 - INFO - Initialized successfully.
+Dec 11 11:14:53 - INFO - Starting observer ssh.
+Dec 11 11:14:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:54 - INFO - Initialized successfully.
+Dec 11 11:14:54 - INFO - Starting observer ssh.
+Dec 11 11:14:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:55 - INFO - Initialized successfully.
+Dec 11 11:14:55 - INFO - Starting observer ssh.
+Dec 11 11:14:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:55 - INFO - Initialized successfully.
+Dec 11 11:14:55 - INFO - Starting observer ssh.
+Dec 11 11:14:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:56 - INFO - Initialized successfully.
+Dec 11 11:14:56 - INFO - Starting observer ssh.
+Dec 11 11:14:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:57 - INFO - Initialized successfully.
+Dec 11 11:14:57 - INFO - Starting observer ssh.
+Dec 11 11:14:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:57 - INFO - Initialized successfully.
+Dec 11 11:14:57 - INFO - Starting observer ssh.
+Dec 11 11:14:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:58 - INFO - Initialized successfully.
+Dec 11 11:14:58 - INFO - Starting observer ssh.
+Dec 11 11:14:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:59 - INFO - Initialized successfully.
+Dec 11 11:14:59 - INFO - Starting observer ssh.
+Dec 11 11:14:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:14:59 - INFO - Initialized successfully.
+Dec 11 11:14:59 - INFO - Starting observer ssh.
+Dec 11 11:14:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:00 - INFO - Initialized successfully.
+Dec 11 11:15:00 - INFO - Starting observer ssh.
+Dec 11 11:15:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:00 - INFO - Initialized successfully.
+Dec 11 11:15:00 - INFO - Starting observer ssh.
+Dec 11 11:15:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:01 - INFO - Initialized successfully.
+Dec 11 11:15:01 - INFO - Starting observer ssh.
+Dec 11 11:15:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:02 - INFO - Initialized successfully.
+Dec 11 11:15:02 - INFO - Starting observer ssh.
+Dec 11 11:15:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:02 - INFO - Initialized successfully.
+Dec 11 11:15:02 - INFO - Starting observer ssh.
+Dec 11 11:15:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:03 - INFO - Initialized successfully.
+Dec 11 11:15:03 - INFO - Starting observer ssh.
+Dec 11 11:15:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:04 - INFO - Initialized successfully.
+Dec 11 11:15:04 - INFO - Starting observer ssh.
+Dec 11 11:15:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:04 - INFO - Initialized successfully.
+Dec 11 11:15:04 - INFO - Starting observer ssh.
+Dec 11 11:15:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:05 - INFO - Initialized successfully.
+Dec 11 11:15:05 - INFO - Starting observer ssh.
+Dec 11 11:15:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:06 - INFO - Initialized successfully.
+Dec 11 11:15:06 - INFO - Starting observer ssh.
+Dec 11 11:15:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:06 - INFO - Initialized successfully.
+Dec 11 11:15:06 - INFO - Starting observer ssh.
+Dec 11 11:15:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:07 - INFO - Initialized successfully.
+Dec 11 11:15:07 - INFO - Starting observer ssh.
+Dec 11 11:15:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:07 - INFO - Initialized successfully.
+Dec 11 11:15:07 - INFO - Starting observer ssh.
+Dec 11 11:15:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:08 - INFO - Initialized successfully.
+Dec 11 11:15:08 - INFO - Starting observer ssh.
+Dec 11 11:15:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:09 - INFO - Initialized successfully.
+Dec 11 11:15:09 - INFO - Starting observer ssh.
+Dec 11 11:15:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:09 - INFO - Initialized successfully.
+Dec 11 11:15:09 - INFO - Starting observer ssh.
+Dec 11 11:15:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:10 - INFO - Initialized successfully.
+Dec 11 11:15:10 - INFO - Starting observer ssh.
+Dec 11 11:15:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:11 - INFO - Initialized successfully.
+Dec 11 11:15:11 - INFO - Starting observer ssh.
+Dec 11 11:15:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:11 - INFO - Initialized successfully.
+Dec 11 11:15:11 - INFO - Starting observer ssh.
+Dec 11 11:15:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:12 - INFO - Initialized successfully.
+Dec 11 11:15:12 - INFO - Starting observer ssh.
+Dec 11 11:15:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:12 - INFO - Initialized successfully.
+Dec 11 11:15:12 - INFO - Starting observer ssh.
+Dec 11 11:15:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:13 - INFO - Initialized successfully.
+Dec 11 11:15:13 - INFO - Starting observer ssh.
+Dec 11 11:15:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:14 - INFO - Initialized successfully.
+Dec 11 11:15:14 - INFO - Starting observer ssh.
+Dec 11 11:15:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:14 - INFO - Initialized successfully.
+Dec 11 11:15:14 - INFO - Starting observer ssh.
+Dec 11 11:15:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:15 - INFO - Initialized successfully.
+Dec 11 11:15:15 - INFO - Starting observer ssh.
+Dec 11 11:15:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:16 - INFO - Initialized successfully.
+Dec 11 11:15:16 - INFO - Starting observer ssh.
+Dec 11 11:15:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:16 - INFO - Initialized successfully.
+Dec 11 11:15:16 - INFO - Starting observer ssh.
+Dec 11 11:15:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:17 - INFO - Initialized successfully.
+Dec 11 11:15:17 - INFO - Starting observer ssh.
+Dec 11 11:15:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:17 - INFO - Initialized successfully.
+Dec 11 11:15:17 - INFO - Starting observer ssh.
+Dec 11 11:15:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:18 - INFO - Initialized successfully.
+Dec 11 11:15:18 - INFO - Starting observer ssh.
+Dec 11 11:15:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:19 - INFO - Initialized successfully.
+Dec 11 11:15:19 - INFO - Starting observer ssh.
+Dec 11 11:15:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:19 - INFO - Initialized successfully.
+Dec 11 11:15:19 - INFO - Starting observer ssh.
+Dec 11 11:15:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:20 - INFO - Initialized successfully.
+Dec 11 11:15:20 - INFO - Starting observer ssh.
+Dec 11 11:15:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:20 - INFO - Initialized successfully.
+Dec 11 11:15:20 - INFO - Starting observer ssh.
+Dec 11 11:15:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:21 - INFO - Initialized successfully.
+Dec 11 11:15:21 - INFO - Starting observer ssh.
+Dec 11 11:15:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:22 - INFO - Initialized successfully.
+Dec 11 11:15:22 - INFO - Starting observer ssh.
+Dec 11 11:15:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:22 - INFO - Initialized successfully.
+Dec 11 11:15:22 - INFO - Starting observer ssh.
+Dec 11 11:15:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:23 - INFO - Initialized successfully.
+Dec 11 11:15:23 - INFO - Starting observer ssh.
+Dec 11 11:15:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:24 - INFO - Initialized successfully.
+Dec 11 11:15:24 - INFO - Starting observer ssh.
+Dec 11 11:15:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:24 - INFO - Initialized successfully.
+Dec 11 11:15:24 - INFO - Starting observer ssh.
+Dec 11 11:15:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:25 - INFO - Initialized successfully.
+Dec 11 11:15:25 - INFO - Starting observer ssh.
+Dec 11 11:15:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:25 - INFO - Initialized successfully.
+Dec 11 11:15:25 - INFO - Starting observer ssh.
+Dec 11 11:15:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:26 - INFO - Initialized successfully.
+Dec 11 11:15:26 - INFO - Starting observer ssh.
+Dec 11 11:15:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:27 - INFO - Initialized successfully.
+Dec 11 11:15:27 - INFO - Starting observer ssh.
+Dec 11 11:15:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:27 - INFO - Initialized successfully.
+Dec 11 11:15:27 - INFO - Starting observer ssh.
+Dec 11 11:15:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:28 - INFO - Initialized successfully.
+Dec 11 11:15:28 - INFO - Starting observer ssh.
+Dec 11 11:15:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:29 - INFO - Initialized successfully.
+Dec 11 11:15:29 - INFO - Starting observer ssh.
+Dec 11 11:15:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:29 - INFO - Initialized successfully.
+Dec 11 11:15:29 - INFO - Starting observer ssh.
+Dec 11 11:15:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:30 - INFO - Initialized successfully.
+Dec 11 11:15:30 - INFO - Starting observer ssh.
+Dec 11 11:15:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:30 - INFO - Initialized successfully.
+Dec 11 11:15:30 - INFO - Starting observer ssh.
+Dec 11 11:15:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:31 - INFO - Initialized successfully.
+Dec 11 11:15:31 - INFO - Starting observer ssh.
+Dec 11 11:15:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:32 - INFO - Initialized successfully.
+Dec 11 11:15:32 - INFO - Starting observer ssh.
+Dec 11 11:15:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:32 - INFO - Initialized successfully.
+Dec 11 11:15:32 - INFO - Starting observer ssh.
+Dec 11 11:15:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:33 - INFO - Initialized successfully.
+Dec 11 11:15:33 - INFO - Starting observer ssh.
+Dec 11 11:15:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:34 - INFO - Initialized successfully.
+Dec 11 11:15:34 - INFO - Starting observer ssh.
+Dec 11 11:15:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:34 - INFO - Initialized successfully.
+Dec 11 11:15:34 - INFO - Starting observer ssh.
+Dec 11 11:15:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:35 - INFO - Initialized successfully.
+Dec 11 11:15:35 - INFO - Starting observer ssh.
+Dec 11 11:15:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:35 - INFO - Initialized successfully.
+Dec 11 11:15:35 - INFO - Starting observer ssh.
+Dec 11 11:15:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:36 - INFO - Initialized successfully.
+Dec 11 11:15:36 - INFO - Starting observer ssh.
+Dec 11 11:15:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:37 - INFO - Initialized successfully.
+Dec 11 11:15:37 - INFO - Starting observer ssh.
+Dec 11 11:15:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:37 - INFO - Initialized successfully.
+Dec 11 11:15:37 - INFO - Starting observer ssh.
+Dec 11 11:15:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:38 - INFO - Initialized successfully.
+Dec 11 11:15:38 - INFO - Starting observer ssh.
+Dec 11 11:15:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:39 - INFO - Initialized successfully.
+Dec 11 11:15:39 - INFO - Starting observer ssh.
+Dec 11 11:15:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:39 - INFO - Initialized successfully.
+Dec 11 11:15:39 - INFO - Starting observer ssh.
+Dec 11 11:15:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:40 - INFO - Initialized successfully.
+Dec 11 11:15:40 - INFO - Starting observer ssh.
+Dec 11 11:15:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:40 - INFO - Initialized successfully.
+Dec 11 11:15:40 - INFO - Starting observer ssh.
+Dec 11 11:15:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:41 - INFO - Initialized successfully.
+Dec 11 11:15:41 - INFO - Starting observer ssh.
+Dec 11 11:15:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:42 - INFO - Initialized successfully.
+Dec 11 11:15:42 - INFO - Starting observer ssh.
+Dec 11 11:15:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:42 - INFO - Initialized successfully.
+Dec 11 11:15:42 - INFO - Starting observer ssh.
+Dec 11 11:15:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:43 - INFO - Initialized successfully.
+Dec 11 11:15:43 - INFO - Starting observer ssh.
+Dec 11 11:15:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:44 - INFO - Initialized successfully.
+Dec 11 11:15:44 - INFO - Starting observer ssh.
+Dec 11 11:15:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:44 - INFO - Initialized successfully.
+Dec 11 11:15:44 - INFO - Starting observer ssh.
+Dec 11 11:15:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:45 - INFO - Initialized successfully.
+Dec 11 11:15:45 - INFO - Starting observer ssh.
+Dec 11 11:15:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:45 - INFO - Initialized successfully.
+Dec 11 11:15:45 - INFO - Starting observer ssh.
+Dec 11 11:15:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:46 - INFO - Initialized successfully.
+Dec 11 11:15:46 - INFO - Starting observer ssh.
+Dec 11 11:15:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:47 - INFO - Initialized successfully.
+Dec 11 11:15:47 - INFO - Starting observer ssh.
+Dec 11 11:15:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:47 - INFO - Initialized successfully.
+Dec 11 11:15:47 - INFO - Starting observer ssh.
+Dec 11 11:15:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:48 - INFO - Initialized successfully.
+Dec 11 11:15:48 - INFO - Starting observer ssh.
+Dec 11 11:15:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:49 - INFO - Initialized successfully.
+Dec 11 11:15:49 - INFO - Starting observer ssh.
+Dec 11 11:15:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:49 - INFO - Initialized successfully.
+Dec 11 11:15:49 - INFO - Starting observer ssh.
+Dec 11 11:15:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:50 - INFO - Initialized successfully.
+Dec 11 11:15:50 - INFO - Starting observer ssh.
+Dec 11 11:15:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:50 - INFO - Initialized successfully.
+Dec 11 11:15:50 - INFO - Starting observer ssh.
+Dec 11 11:15:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:51 - INFO - Initialized successfully.
+Dec 11 11:15:51 - INFO - Starting observer ssh.
+Dec 11 11:15:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:52 - INFO - Initialized successfully.
+Dec 11 11:15:52 - INFO - Starting observer ssh.
+Dec 11 11:15:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:52 - INFO - Initialized successfully.
+Dec 11 11:15:52 - INFO - Starting observer ssh.
+Dec 11 11:15:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:53 - INFO - Initialized successfully.
+Dec 11 11:15:53 - INFO - Starting observer ssh.
+Dec 11 11:15:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:54 - INFO - Initialized successfully.
+Dec 11 11:15:54 - INFO - Starting observer ssh.
+Dec 11 11:15:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:54 - INFO - Initialized successfully.
+Dec 11 11:15:54 - INFO - Starting observer ssh.
+Dec 11 11:15:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:55 - INFO - Initialized successfully.
+Dec 11 11:15:55 - INFO - Starting observer ssh.
+Dec 11 11:15:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:55 - INFO - Initialized successfully.
+Dec 11 11:15:55 - INFO - Starting observer ssh.
+Dec 11 11:15:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:56 - INFO - Initialized successfully.
+Dec 11 11:15:56 - INFO - Starting observer ssh.
+Dec 11 11:15:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:57 - INFO - Initialized successfully.
+Dec 11 11:15:57 - INFO - Starting observer ssh.
+Dec 11 11:15:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:57 - INFO - Initialized successfully.
+Dec 11 11:15:57 - INFO - Starting observer ssh.
+Dec 11 11:15:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:58 - INFO - Initialized successfully.
+Dec 11 11:15:58 - INFO - Starting observer ssh.
+Dec 11 11:15:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:59 - INFO - Initialized successfully.
+Dec 11 11:15:59 - INFO - Starting observer ssh.
+Dec 11 11:15:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:15:59 - INFO - Initialized successfully.
+Dec 11 11:15:59 - INFO - Starting observer ssh.
+Dec 11 11:15:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:00 - INFO - Initialized successfully.
+Dec 11 11:16:00 - INFO - Starting observer ssh.
+Dec 11 11:16:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:00 - INFO - Initialized successfully.
+Dec 11 11:16:00 - INFO - Starting observer ssh.
+Dec 11 11:16:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:01 - INFO - Initialized successfully.
+Dec 11 11:16:01 - INFO - Starting observer ssh.
+Dec 11 11:16:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:02 - INFO - Initialized successfully.
+Dec 11 11:16:02 - INFO - Starting observer ssh.
+Dec 11 11:16:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:02 - INFO - Initialized successfully.
+Dec 11 11:16:02 - INFO - Starting observer ssh.
+Dec 11 11:16:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:03 - INFO - Initialized successfully.
+Dec 11 11:16:03 - INFO - Starting observer ssh.
+Dec 11 11:16:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:04 - INFO - Initialized successfully.
+Dec 11 11:16:04 - INFO - Starting observer ssh.
+Dec 11 11:16:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:04 - INFO - Initialized successfully.
+Dec 11 11:16:04 - INFO - Starting observer ssh.
+Dec 11 11:16:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:05 - INFO - Initialized successfully.
+Dec 11 11:16:05 - INFO - Starting observer ssh.
+Dec 11 11:16:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:05 - INFO - Initialized successfully.
+Dec 11 11:16:05 - INFO - Starting observer ssh.
+Dec 11 11:16:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:06 - INFO - Initialized successfully.
+Dec 11 11:16:06 - INFO - Starting observer ssh.
+Dec 11 11:16:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:07 - INFO - Initialized successfully.
+Dec 11 11:16:07 - INFO - Starting observer ssh.
+Dec 11 11:16:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:07 - INFO - Initialized successfully.
+Dec 11 11:16:07 - INFO - Starting observer ssh.
+Dec 11 11:16:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:08 - INFO - Initialized successfully.
+Dec 11 11:16:08 - INFO - Starting observer ssh.
+Dec 11 11:16:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:09 - INFO - Initialized successfully.
+Dec 11 11:16:09 - INFO - Starting observer ssh.
+Dec 11 11:16:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:09 - INFO - Initialized successfully.
+Dec 11 11:16:09 - INFO - Starting observer ssh.
+Dec 11 11:16:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:10 - INFO - Initialized successfully.
+Dec 11 11:16:10 - INFO - Starting observer ssh.
+Dec 11 11:16:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:10 - INFO - Initialized successfully.
+Dec 11 11:16:10 - INFO - Starting observer ssh.
+Dec 11 11:16:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:11 - INFO - Initialized successfully.
+Dec 11 11:16:11 - INFO - Starting observer ssh.
+Dec 11 11:16:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:12 - INFO - Initialized successfully.
+Dec 11 11:16:12 - INFO - Starting observer ssh.
+Dec 11 11:16:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:12 - INFO - Initialized successfully.
+Dec 11 11:16:12 - INFO - Starting observer ssh.
+Dec 11 11:16:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:13 - INFO - Initialized successfully.
+Dec 11 11:16:13 - INFO - Starting observer ssh.
+Dec 11 11:16:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:14 - INFO - Initialized successfully.
+Dec 11 11:16:14 - INFO - Starting observer ssh.
+Dec 11 11:16:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:14 - INFO - Initialized successfully.
+Dec 11 11:16:14 - INFO - Starting observer ssh.
+Dec 11 11:16:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:15 - INFO - Initialized successfully.
+Dec 11 11:16:15 - INFO - Starting observer ssh.
+Dec 11 11:16:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:15 - INFO - Initialized successfully.
+Dec 11 11:16:15 - INFO - Starting observer ssh.
+Dec 11 11:16:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:16 - INFO - Initialized successfully.
+Dec 11 11:16:16 - INFO - Starting observer ssh.
+Dec 11 11:16:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:17 - INFO - Initialized successfully.
+Dec 11 11:16:17 - INFO - Starting observer ssh.
+Dec 11 11:16:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:17 - INFO - Initialized successfully.
+Dec 11 11:16:17 - INFO - Starting observer ssh.
+Dec 11 11:16:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:18 - INFO - Initialized successfully.
+Dec 11 11:16:18 - INFO - Starting observer ssh.
+Dec 11 11:16:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:19 - INFO - Initialized successfully.
+Dec 11 11:16:19 - INFO - Starting observer ssh.
+Dec 11 11:16:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:19 - INFO - Initialized successfully.
+Dec 11 11:16:19 - INFO - Starting observer ssh.
+Dec 11 11:16:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:20 - INFO - Initialized successfully.
+Dec 11 11:16:20 - INFO - Starting observer ssh.
+Dec 11 11:16:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:20 - INFO - Initialized successfully.
+Dec 11 11:16:20 - INFO - Starting observer ssh.
+Dec 11 11:16:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:21 - INFO - Initialized successfully.
+Dec 11 11:16:21 - INFO - Starting observer ssh.
+Dec 11 11:16:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:22 - INFO - Initialized successfully.
+Dec 11 11:16:22 - INFO - Starting observer ssh.
+Dec 11 11:16:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:22 - INFO - Initialized successfully.
+Dec 11 11:16:22 - INFO - Starting observer ssh.
+Dec 11 11:16:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:23 - INFO - Initialized successfully.
+Dec 11 11:16:23 - INFO - Starting observer ssh.
+Dec 11 11:16:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:24 - INFO - Initialized successfully.
+Dec 11 11:16:24 - INFO - Starting observer ssh.
+Dec 11 11:16:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:24 - INFO - Initialized successfully.
+Dec 11 11:16:24 - INFO - Starting observer ssh.
+Dec 11 11:16:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:25 - INFO - Initialized successfully.
+Dec 11 11:16:25 - INFO - Starting observer ssh.
+Dec 11 11:16:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:25 - INFO - Initialized successfully.
+Dec 11 11:16:25 - INFO - Starting observer ssh.
+Dec 11 11:16:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:26 - INFO - Initialized successfully.
+Dec 11 11:16:26 - INFO - Starting observer ssh.
+Dec 11 11:16:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:27 - INFO - Initialized successfully.
+Dec 11 11:16:27 - INFO - Starting observer ssh.
+Dec 11 11:16:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:27 - INFO - Initialized successfully.
+Dec 11 11:16:27 - INFO - Starting observer ssh.
+Dec 11 11:16:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:28 - INFO - Initialized successfully.
+Dec 11 11:16:28 - INFO - Starting observer ssh.
+Dec 11 11:16:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:29 - INFO - Initialized successfully.
+Dec 11 11:16:29 - INFO - Starting observer ssh.
+Dec 11 11:16:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:29 - INFO - Initialized successfully.
+Dec 11 11:16:29 - INFO - Starting observer ssh.
+Dec 11 11:16:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:30 - INFO - Initialized successfully.
+Dec 11 11:16:30 - INFO - Starting observer ssh.
+Dec 11 11:16:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:30 - INFO - Initialized successfully.
+Dec 11 11:16:30 - INFO - Starting observer ssh.
+Dec 11 11:16:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:31 - INFO - Initialized successfully.
+Dec 11 11:16:31 - INFO - Starting observer ssh.
+Dec 11 11:16:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:32 - INFO - Initialized successfully.
+Dec 11 11:16:32 - INFO - Starting observer ssh.
+Dec 11 11:16:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:32 - INFO - Initialized successfully.
+Dec 11 11:16:32 - INFO - Starting observer ssh.
+Dec 11 11:16:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:33 - INFO - Initialized successfully.
+Dec 11 11:16:33 - INFO - Starting observer ssh.
+Dec 11 11:16:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:33 - INFO - Initialized successfully.
+Dec 11 11:16:33 - INFO - Starting observer ssh.
+Dec 11 11:16:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:34 - INFO - Initialized successfully.
+Dec 11 11:16:34 - INFO - Starting observer ssh.
+Dec 11 11:16:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:35 - INFO - Initialized successfully.
+Dec 11 11:16:35 - INFO - Starting observer ssh.
+Dec 11 11:16:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:35 - INFO - Initialized successfully.
+Dec 11 11:16:35 - INFO - Starting observer ssh.
+Dec 11 11:16:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:36 - INFO - Initialized successfully.
+Dec 11 11:16:36 - INFO - Starting observer ssh.
+Dec 11 11:16:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:37 - INFO - Initialized successfully.
+Dec 11 11:16:37 - INFO - Starting observer ssh.
+Dec 11 11:16:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:37 - INFO - Initialized successfully.
+Dec 11 11:16:37 - INFO - Starting observer ssh.
+Dec 11 11:16:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:38 - INFO - Initialized successfully.
+Dec 11 11:16:38 - INFO - Starting observer ssh.
+Dec 11 11:16:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:38 - INFO - Initialized successfully.
+Dec 11 11:16:38 - INFO - Starting observer ssh.
+Dec 11 11:16:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:39 - INFO - Initialized successfully.
+Dec 11 11:16:39 - INFO - Starting observer ssh.
+Dec 11 11:16:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:40 - INFO - Initialized successfully.
+Dec 11 11:16:40 - INFO - Starting observer ssh.
+Dec 11 11:16:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:40 - INFO - Initialized successfully.
+Dec 11 11:16:40 - INFO - Starting observer ssh.
+Dec 11 11:16:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:41 - INFO - Initialized successfully.
+Dec 11 11:16:41 - INFO - Starting observer ssh.
+Dec 11 11:16:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:42 - INFO - Initialized successfully.
+Dec 11 11:16:42 - INFO - Starting observer ssh.
+Dec 11 11:16:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:42 - INFO - Initialized successfully.
+Dec 11 11:16:42 - INFO - Starting observer ssh.
+Dec 11 11:16:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:43 - INFO - Initialized successfully.
+Dec 11 11:16:43 - INFO - Starting observer ssh.
+Dec 11 11:16:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:43 - INFO - Initialized successfully.
+Dec 11 11:16:43 - INFO - Starting observer ssh.
+Dec 11 11:16:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:44 - INFO - Initialized successfully.
+Dec 11 11:16:44 - INFO - Starting observer ssh.
+Dec 11 11:16:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:45 - INFO - Initialized successfully.
+Dec 11 11:16:45 - INFO - Starting observer ssh.
+Dec 11 11:16:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:45 - INFO - Initialized successfully.
+Dec 11 11:16:45 - INFO - Starting observer ssh.
+Dec 11 11:16:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:46 - INFO - Initialized successfully.
+Dec 11 11:16:46 - INFO - Starting observer ssh.
+Dec 11 11:16:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:47 - INFO - Initialized successfully.
+Dec 11 11:16:47 - INFO - Starting observer ssh.
+Dec 11 11:16:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:47 - INFO - Initialized successfully.
+Dec 11 11:16:47 - INFO - Starting observer ssh.
+Dec 11 11:16:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:48 - INFO - Initialized successfully.
+Dec 11 11:16:48 - INFO - Starting observer ssh.
+Dec 11 11:16:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:48 - INFO - Initialized successfully.
+Dec 11 11:16:48 - INFO - Starting observer ssh.
+Dec 11 11:16:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:49 - INFO - Initialized successfully.
+Dec 11 11:16:49 - INFO - Starting observer ssh.
+Dec 11 11:16:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:50 - INFO - Initialized successfully.
+Dec 11 11:16:50 - INFO - Starting observer ssh.
+Dec 11 11:16:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:50 - INFO - Initialized successfully.
+Dec 11 11:16:50 - INFO - Starting observer ssh.
+Dec 11 11:16:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:51 - INFO - Initialized successfully.
+Dec 11 11:16:51 - INFO - Starting observer ssh.
+Dec 11 11:16:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:52 - INFO - Initialized successfully.
+Dec 11 11:16:52 - INFO - Starting observer ssh.
+Dec 11 11:16:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:52 - INFO - Initialized successfully.
+Dec 11 11:16:52 - INFO - Starting observer ssh.
+Dec 11 11:16:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:53 - INFO - Initialized successfully.
+Dec 11 11:16:53 - INFO - Starting observer ssh.
+Dec 11 11:16:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:53 - INFO - Initialized successfully.
+Dec 11 11:16:53 - INFO - Starting observer ssh.
+Dec 11 11:16:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:54 - INFO - Initialized successfully.
+Dec 11 11:16:54 - INFO - Starting observer ssh.
+Dec 11 11:16:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:55 - INFO - Initialized successfully.
+Dec 11 11:16:55 - INFO - Starting observer ssh.
+Dec 11 11:16:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:55 - INFO - Initialized successfully.
+Dec 11 11:16:55 - INFO - Starting observer ssh.
+Dec 11 11:16:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:56 - INFO - Initialized successfully.
+Dec 11 11:16:56 - INFO - Starting observer ssh.
+Dec 11 11:16:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:56 - INFO - Initialized successfully.
+Dec 11 11:16:56 - INFO - Starting observer ssh.
+Dec 11 11:16:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:57 - INFO - Initialized successfully.
+Dec 11 11:16:57 - INFO - Starting observer ssh.
+Dec 11 11:16:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:58 - INFO - Initialized successfully.
+Dec 11 11:16:58 - INFO - Starting observer ssh.
+Dec 11 11:16:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:58 - INFO - Initialized successfully.
+Dec 11 11:16:58 - INFO - Starting observer ssh.
+Dec 11 11:16:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:16:59 - INFO - Initialized successfully.
+Dec 11 11:16:59 - INFO - Starting observer ssh.
+Dec 11 11:16:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:00 - INFO - Initialized successfully.
+Dec 11 11:17:00 - INFO - Starting observer ssh.
+Dec 11 11:17:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:00 - INFO - Initialized successfully.
+Dec 11 11:17:00 - INFO - Starting observer ssh.
+Dec 11 11:17:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:01 - INFO - Initialized successfully.
+Dec 11 11:17:01 - INFO - Starting observer ssh.
+Dec 11 11:17:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:01 - INFO - Initialized successfully.
+Dec 11 11:17:01 - INFO - Starting observer ssh.
+Dec 11 11:17:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:02 - INFO - Initialized successfully.
+Dec 11 11:17:02 - INFO - Starting observer ssh.
+Dec 11 11:17:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:03 - INFO - Initialized successfully.
+Dec 11 11:17:03 - INFO - Starting observer ssh.
+Dec 11 11:17:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:03 - INFO - Initialized successfully.
+Dec 11 11:17:03 - INFO - Starting observer ssh.
+Dec 11 11:17:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:04 - INFO - Initialized successfully.
+Dec 11 11:17:04 - INFO - Starting observer ssh.
+Dec 11 11:17:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:05 - INFO - Initialized successfully.
+Dec 11 11:17:05 - INFO - Starting observer ssh.
+Dec 11 11:17:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:05 - INFO - Initialized successfully.
+Dec 11 11:17:05 - INFO - Starting observer ssh.
+Dec 11 11:17:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:06 - INFO - Initialized successfully.
+Dec 11 11:17:06 - INFO - Starting observer ssh.
+Dec 11 11:17:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:06 - INFO - Initialized successfully.
+Dec 11 11:17:06 - INFO - Starting observer ssh.
+Dec 11 11:17:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:07 - INFO - Initialized successfully.
+Dec 11 11:17:07 - INFO - Starting observer ssh.
+Dec 11 11:17:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:08 - INFO - Initialized successfully.
+Dec 11 11:17:08 - INFO - Starting observer ssh.
+Dec 11 11:17:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:08 - INFO - Initialized successfully.
+Dec 11 11:17:08 - INFO - Starting observer ssh.
+Dec 11 11:17:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:09 - INFO - Initialized successfully.
+Dec 11 11:17:09 - INFO - Starting observer ssh.
+Dec 11 11:17:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:10 - INFO - Initialized successfully.
+Dec 11 11:17:10 - INFO - Starting observer ssh.
+Dec 11 11:17:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:10 - INFO - Initialized successfully.
+Dec 11 11:17:10 - INFO - Starting observer ssh.
+Dec 11 11:17:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:11 - INFO - Initialized successfully.
+Dec 11 11:17:11 - INFO - Starting observer ssh.
+Dec 11 11:17:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:11 - INFO - Initialized successfully.
+Dec 11 11:17:11 - INFO - Starting observer ssh.
+Dec 11 11:17:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:12 - INFO - Initialized successfully.
+Dec 11 11:17:12 - INFO - Starting observer ssh.
+Dec 11 11:17:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:13 - INFO - Initialized successfully.
+Dec 11 11:17:13 - INFO - Starting observer ssh.
+Dec 11 11:17:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:13 - INFO - Initialized successfully.
+Dec 11 11:17:13 - INFO - Starting observer ssh.
+Dec 11 11:17:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:14 - INFO - Initialized successfully.
+Dec 11 11:17:14 - INFO - Starting observer ssh.
+Dec 11 11:17:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:15 - INFO - Initialized successfully.
+Dec 11 11:17:15 - INFO - Starting observer ssh.
+Dec 11 11:17:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:15 - INFO - Initialized successfully.
+Dec 11 11:17:15 - INFO - Starting observer ssh.
+Dec 11 11:17:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:16 - INFO - Initialized successfully.
+Dec 11 11:17:16 - INFO - Starting observer ssh.
+Dec 11 11:17:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:16 - INFO - Initialized successfully.
+Dec 11 11:17:16 - INFO - Starting observer ssh.
+Dec 11 11:17:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:17 - INFO - Initialized successfully.
+Dec 11 11:17:17 - INFO - Starting observer ssh.
+Dec 11 11:17:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:18 - INFO - Initialized successfully.
+Dec 11 11:17:18 - INFO - Starting observer ssh.
+Dec 11 11:17:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:18 - INFO - Initialized successfully.
+Dec 11 11:17:18 - INFO - Starting observer ssh.
+Dec 11 11:17:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:19 - INFO - Initialized successfully.
+Dec 11 11:17:19 - INFO - Starting observer ssh.
+Dec 11 11:17:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:20 - INFO - Initialized successfully.
+Dec 11 11:17:20 - INFO - Starting observer ssh.
+Dec 11 11:17:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:20 - INFO - Initialized successfully.
+Dec 11 11:17:20 - INFO - Starting observer ssh.
+Dec 11 11:17:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:21 - INFO - Initialized successfully.
+Dec 11 11:17:21 - INFO - Starting observer ssh.
+Dec 11 11:17:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:22 - INFO - Initialized successfully.
+Dec 11 11:17:22 - INFO - Starting observer ssh.
+Dec 11 11:17:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:22 - INFO - Initialized successfully.
+Dec 11 11:17:22 - INFO - Starting observer ssh.
+Dec 11 11:17:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:23 - INFO - Initialized successfully.
+Dec 11 11:17:23 - INFO - Starting observer ssh.
+Dec 11 11:17:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:24 - INFO - Initialized successfully.
+Dec 11 11:17:24 - INFO - Starting observer ssh.
+Dec 11 11:17:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:24 - INFO - Initialized successfully.
+Dec 11 11:17:24 - INFO - Starting observer ssh.
+Dec 11 11:17:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:25 - INFO - Initialized successfully.
+Dec 11 11:17:25 - INFO - Starting observer ssh.
+Dec 11 11:17:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:26 - INFO - Initialized successfully.
+Dec 11 11:17:26 - INFO - Starting observer ssh.
+Dec 11 11:17:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:26 - INFO - Initialized successfully.
+Dec 11 11:17:26 - INFO - Starting observer ssh.
+Dec 11 11:17:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:27 - INFO - Initialized successfully.
+Dec 11 11:17:27 - INFO - Starting observer ssh.
+Dec 11 11:17:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:28 - INFO - Initialized successfully.
+Dec 11 11:17:28 - INFO - Starting observer ssh.
+Dec 11 11:17:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:28 - INFO - Initialized successfully.
+Dec 11 11:17:28 - INFO - Starting observer ssh.
+Dec 11 11:17:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:29 - INFO - Initialized successfully.
+Dec 11 11:17:29 - INFO - Starting observer ssh.
+Dec 11 11:17:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:29 - INFO - Initialized successfully.
+Dec 11 11:17:29 - INFO - Starting observer ssh.
+Dec 11 11:17:29 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:30 - INFO - Initialized successfully.
+Dec 11 11:17:30 - INFO - Starting observer ssh.
+Dec 11 11:17:30 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:31 - INFO - Initialized successfully.
+Dec 11 11:17:31 - INFO - Starting observer ssh.
+Dec 11 11:17:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:31 - INFO - Initialized successfully.
+Dec 11 11:17:31 - INFO - Starting observer ssh.
+Dec 11 11:17:31 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:32 - INFO - Initialized successfully.
+Dec 11 11:17:32 - INFO - Starting observer ssh.
+Dec 11 11:17:32 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:33 - INFO - Initialized successfully.
+Dec 11 11:17:33 - INFO - Starting observer ssh.
+Dec 11 11:17:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:33 - INFO - Initialized successfully.
+Dec 11 11:17:33 - INFO - Starting observer ssh.
+Dec 11 11:17:33 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:34 - INFO - Initialized successfully.
+Dec 11 11:17:34 - INFO - Starting observer ssh.
+Dec 11 11:17:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:34 - INFO - Initialized successfully.
+Dec 11 11:17:34 - INFO - Starting observer ssh.
+Dec 11 11:17:34 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:35 - INFO - Initialized successfully.
+Dec 11 11:17:35 - INFO - Starting observer ssh.
+Dec 11 11:17:35 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:36 - INFO - Initialized successfully.
+Dec 11 11:17:36 - INFO - Starting observer ssh.
+Dec 11 11:17:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:36 - INFO - Initialized successfully.
+Dec 11 11:17:36 - INFO - Starting observer ssh.
+Dec 11 11:17:36 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:37 - INFO - Initialized successfully.
+Dec 11 11:17:37 - INFO - Starting observer ssh.
+Dec 11 11:17:37 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:38 - INFO - Initialized successfully.
+Dec 11 11:17:38 - INFO - Starting observer ssh.
+Dec 11 11:17:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:38 - INFO - Initialized successfully.
+Dec 11 11:17:38 - INFO - Starting observer ssh.
+Dec 11 11:17:38 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:39 - INFO - Initialized successfully.
+Dec 11 11:17:39 - INFO - Starting observer ssh.
+Dec 11 11:17:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:39 - INFO - Initialized successfully.
+Dec 11 11:17:39 - INFO - Starting observer ssh.
+Dec 11 11:17:39 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:40 - INFO - Initialized successfully.
+Dec 11 11:17:40 - INFO - Starting observer ssh.
+Dec 11 11:17:40 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:41 - INFO - Initialized successfully.
+Dec 11 11:17:41 - INFO - Starting observer ssh.
+Dec 11 11:17:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:41 - INFO - Initialized successfully.
+Dec 11 11:17:41 - INFO - Starting observer ssh.
+Dec 11 11:17:41 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:42 - INFO - Initialized successfully.
+Dec 11 11:17:42 - INFO - Starting observer ssh.
+Dec 11 11:17:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:42 - INFO - Initialized successfully.
+Dec 11 11:17:42 - INFO - Starting observer ssh.
+Dec 11 11:17:42 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:43 - INFO - Initialized successfully.
+Dec 11 11:17:43 - INFO - Starting observer ssh.
+Dec 11 11:17:43 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:44 - INFO - Initialized successfully.
+Dec 11 11:17:44 - INFO - Starting observer ssh.
+Dec 11 11:17:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:44 - INFO - Initialized successfully.
+Dec 11 11:17:44 - INFO - Starting observer ssh.
+Dec 11 11:17:44 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:45 - INFO - Initialized successfully.
+Dec 11 11:17:45 - INFO - Starting observer ssh.
+Dec 11 11:17:45 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:46 - INFO - Initialized successfully.
+Dec 11 11:17:46 - INFO - Starting observer ssh.
+Dec 11 11:17:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:46 - INFO - Initialized successfully.
+Dec 11 11:17:46 - INFO - Starting observer ssh.
+Dec 11 11:17:46 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:47 - INFO - Initialized successfully.
+Dec 11 11:17:47 - INFO - Starting observer ssh.
+Dec 11 11:17:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:47 - INFO - Initialized successfully.
+Dec 11 11:17:47 - INFO - Starting observer ssh.
+Dec 11 11:17:47 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:48 - INFO - Initialized successfully.
+Dec 11 11:17:48 - INFO - Starting observer ssh.
+Dec 11 11:17:48 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:49 - INFO - Initialized successfully.
+Dec 11 11:17:49 - INFO - Starting observer ssh.
+Dec 11 11:17:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:49 - INFO - Initialized successfully.
+Dec 11 11:17:49 - INFO - Starting observer ssh.
+Dec 11 11:17:49 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:50 - INFO - Initialized successfully.
+Dec 11 11:17:50 - INFO - Starting observer ssh.
+Dec 11 11:17:50 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:51 - INFO - Initialized successfully.
+Dec 11 11:17:51 - INFO - Starting observer ssh.
+Dec 11 11:17:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:51 - INFO - Initialized successfully.
+Dec 11 11:17:51 - INFO - Starting observer ssh.
+Dec 11 11:17:51 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:52 - INFO - Initialized successfully.
+Dec 11 11:17:52 - INFO - Starting observer ssh.
+Dec 11 11:17:52 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:53 - INFO - Initialized successfully.
+Dec 11 11:17:53 - INFO - Starting observer ssh.
+Dec 11 11:17:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:53 - INFO - Initialized successfully.
+Dec 11 11:17:53 - INFO - Starting observer ssh.
+Dec 11 11:17:53 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:54 - INFO - Initialized successfully.
+Dec 11 11:17:54 - INFO - Starting observer ssh.
+Dec 11 11:17:54 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:55 - INFO - Initialized successfully.
+Dec 11 11:17:55 - INFO - Starting observer ssh.
+Dec 11 11:17:55 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:56 - INFO - Initialized successfully.
+Dec 11 11:17:56 - INFO - Starting observer ssh.
+Dec 11 11:17:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:56 - INFO - Initialized successfully.
+Dec 11 11:17:56 - INFO - Starting observer ssh.
+Dec 11 11:17:56 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:57 - INFO - Initialized successfully.
+Dec 11 11:17:57 - INFO - Starting observer ssh.
+Dec 11 11:17:57 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:58 - INFO - Initialized successfully.
+Dec 11 11:17:58 - INFO - Starting observer ssh.
+Dec 11 11:17:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:58 - INFO - Initialized successfully.
+Dec 11 11:17:58 - INFO - Starting observer ssh.
+Dec 11 11:17:58 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:59 - INFO - Initialized successfully.
+Dec 11 11:17:59 - INFO - Starting observer ssh.
+Dec 11 11:17:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:17:59 - INFO - Initialized successfully.
+Dec 11 11:17:59 - INFO - Starting observer ssh.
+Dec 11 11:17:59 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:00 - INFO - Initialized successfully.
+Dec 11 11:18:00 - INFO - Starting observer ssh.
+Dec 11 11:18:00 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:01 - INFO - Initialized successfully.
+Dec 11 11:18:01 - INFO - Starting observer ssh.
+Dec 11 11:18:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:01 - INFO - Initialized successfully.
+Dec 11 11:18:01 - INFO - Starting observer ssh.
+Dec 11 11:18:01 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:02 - INFO - Initialized successfully.
+Dec 11 11:18:02 - INFO - Starting observer ssh.
+Dec 11 11:18:02 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:03 - INFO - Initialized successfully.
+Dec 11 11:18:03 - INFO - Starting observer ssh.
+Dec 11 11:18:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:03 - INFO - Initialized successfully.
+Dec 11 11:18:03 - INFO - Starting observer ssh.
+Dec 11 11:18:03 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:04 - INFO - Initialized successfully.
+Dec 11 11:18:04 - INFO - Starting observer ssh.
+Dec 11 11:18:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:04 - INFO - Initialized successfully.
+Dec 11 11:18:04 - INFO - Starting observer ssh.
+Dec 11 11:18:04 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:05 - INFO - Initialized successfully.
+Dec 11 11:18:05 - INFO - Starting observer ssh.
+Dec 11 11:18:05 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:06 - INFO - Initialized successfully.
+Dec 11 11:18:06 - INFO - Starting observer ssh.
+Dec 11 11:18:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:06 - INFO - Initialized successfully.
+Dec 11 11:18:06 - INFO - Starting observer ssh.
+Dec 11 11:18:06 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:07 - INFO - Initialized successfully.
+Dec 11 11:18:07 - INFO - Starting observer ssh.
+Dec 11 11:18:07 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:08 - INFO - Initialized successfully.
+Dec 11 11:18:08 - INFO - Starting observer ssh.
+Dec 11 11:18:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:08 - INFO - Initialized successfully.
+Dec 11 11:18:08 - INFO - Starting observer ssh.
+Dec 11 11:18:08 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:09 - INFO - Initialized successfully.
+Dec 11 11:18:09 - INFO - Starting observer ssh.
+Dec 11 11:18:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:09 - INFO - Initialized successfully.
+Dec 11 11:18:09 - INFO - Starting observer ssh.
+Dec 11 11:18:09 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:10 - INFO - Initialized successfully.
+Dec 11 11:18:10 - INFO - Starting observer ssh.
+Dec 11 11:18:10 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:11 - INFO - Initialized successfully.
+Dec 11 11:18:11 - INFO - Starting observer ssh.
+Dec 11 11:18:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:11 - INFO - Initialized successfully.
+Dec 11 11:18:11 - INFO - Starting observer ssh.
+Dec 11 11:18:11 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:12 - INFO - Initialized successfully.
+Dec 11 11:18:12 - INFO - Starting observer ssh.
+Dec 11 11:18:12 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:13 - INFO - Initialized successfully.
+Dec 11 11:18:13 - INFO - Starting observer ssh.
+Dec 11 11:18:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:13 - INFO - Initialized successfully.
+Dec 11 11:18:13 - INFO - Starting observer ssh.
+Dec 11 11:18:13 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:14 - INFO - Initialized successfully.
+Dec 11 11:18:14 - INFO - Starting observer ssh.
+Dec 11 11:18:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:14 - INFO - Initialized successfully.
+Dec 11 11:18:14 - INFO - Starting observer ssh.
+Dec 11 11:18:14 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:15 - INFO - Initialized successfully.
+Dec 11 11:18:15 - INFO - Starting observer ssh.
+Dec 11 11:18:15 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:16 - INFO - Initialized successfully.
+Dec 11 11:18:16 - INFO - Starting observer ssh.
+Dec 11 11:18:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:16 - INFO - Initialized successfully.
+Dec 11 11:18:16 - INFO - Starting observer ssh.
+Dec 11 11:18:16 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:17 - INFO - Initialized successfully.
+Dec 11 11:18:17 - INFO - Starting observer ssh.
+Dec 11 11:18:17 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:18 - INFO - Initialized successfully.
+Dec 11 11:18:18 - INFO - Starting observer ssh.
+Dec 11 11:18:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:18 - INFO - Initialized successfully.
+Dec 11 11:18:18 - INFO - Starting observer ssh.
+Dec 11 11:18:18 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:19 - INFO - Initialized successfully.
+Dec 11 11:18:19 - INFO - Starting observer ssh.
+Dec 11 11:18:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:19 - INFO - Initialized successfully.
+Dec 11 11:18:19 - INFO - Starting observer ssh.
+Dec 11 11:18:19 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:20 - INFO - Initialized successfully.
+Dec 11 11:18:20 - INFO - Starting observer ssh.
+Dec 11 11:18:20 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:21 - INFO - Initialized successfully.
+Dec 11 11:18:21 - INFO - Starting observer ssh.
+Dec 11 11:18:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:21 - INFO - Initialized successfully.
+Dec 11 11:18:21 - INFO - Starting observer ssh.
+Dec 11 11:18:21 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:22 - INFO - Initialized successfully.
+Dec 11 11:18:22 - INFO - Starting observer ssh.
+Dec 11 11:18:22 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:23 - INFO - Initialized successfully.
+Dec 11 11:18:23 - INFO - Starting observer ssh.
+Dec 11 11:18:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:23 - INFO - Initialized successfully.
+Dec 11 11:18:23 - INFO - Starting observer ssh.
+Dec 11 11:18:23 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:24 - INFO - Initialized successfully.
+Dec 11 11:18:24 - INFO - Starting observer ssh.
+Dec 11 11:18:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:24 - INFO - Initialized successfully.
+Dec 11 11:18:24 - INFO - Starting observer ssh.
+Dec 11 11:18:24 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:25 - INFO - Initialized successfully.
+Dec 11 11:18:25 - INFO - Starting observer ssh.
+Dec 11 11:18:25 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:26 - INFO - Initialized successfully.
+Dec 11 11:18:26 - INFO - Starting observer ssh.
+Dec 11 11:18:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:26 - INFO - Initialized successfully.
+Dec 11 11:18:26 - INFO - Starting observer ssh.
+Dec 11 11:18:26 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:27 - INFO - Initialized successfully.
+Dec 11 11:18:27 - INFO - Starting observer ssh.
+Dec 11 11:18:27 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:28 - INFO - Initialized successfully.
+Dec 11 11:18:28 - INFO - Starting observer ssh.
+Dec 11 11:18:28 - INFO - observing file: ./ssh.txt
+Dec 11 11:18:28 - INFO - Initialized successfully.
+Dec 11 11:18:28 - INFO - Starting observer ssh.
+Dec 11 11:18:28 - INFO - observing file: ./ssh.txt
+Dec 14 06:23:54 - INFO - Initialized successfully.
+Dec 14 06:23:54 - INFO - Starting observer ssh.
+Dec 14 06:23:54 - INFO - observing file: ./ssh.txt
+Dec 14 06:23:55 - INFO - Initialized successfully.
+Dec 14 06:23:55 - INFO - Starting observer ssh.
+Dec 14 06:23:55 - INFO - observing file: ./ssh.txt
+Dec 14 06:23:57 - INFO - Initialized successfully.
+Dec 14 06:23:57 - INFO - Starting observer ssh.
+Dec 14 06:23:57 - INFO - observing file: ./ssh.txt
+Dec 14 06:23:58 - INFO - Initialized successfully.
+Dec 14 06:23:58 - INFO - Starting observer ssh.
+Dec 14 06:23:58 - INFO - observing file: ./ssh.txt
+Dec 14 06:23:59 - INFO - Initialized successfully.
+Dec 14 06:23:59 - INFO - Starting observer ssh.
+Dec 14 06:23:59 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:00 - INFO - Initialized successfully.
+Dec 14 06:24:00 - INFO - Starting observer ssh.
+Dec 14 06:24:00 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:01 - INFO - Initialized successfully.
+Dec 14 06:24:01 - INFO - Starting observer ssh.
+Dec 14 06:24:01 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:01 - INFO - Initialized successfully.
+Dec 14 06:24:01 - INFO - Starting observer ssh.
+Dec 14 06:24:01 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:02 - INFO - Initialized successfully.
+Dec 14 06:24:02 - INFO - Starting observer ssh.
+Dec 14 06:24:02 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:02 - INFO - Initialized successfully.
+Dec 14 06:24:02 - INFO - Starting observer ssh.
+Dec 14 06:24:02 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:03 - INFO - Initialized successfully.
+Dec 14 06:24:03 - INFO - Starting observer ssh.
+Dec 14 06:24:03 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:04 - INFO - Initialized successfully.
+Dec 14 06:24:04 - INFO - Starting observer ssh.
+Dec 14 06:24:04 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:04 - INFO - Initialized successfully.
+Dec 14 06:24:04 - INFO - Starting observer ssh.
+Dec 14 06:24:04 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:05 - INFO - Initialized successfully.
+Dec 14 06:24:05 - INFO - Starting observer ssh.
+Dec 14 06:24:05 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:06 - INFO - Initialized successfully.
+Dec 14 06:24:06 - INFO - Starting observer ssh.
+Dec 14 06:24:06 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:06 - INFO - Initialized successfully.
+Dec 14 06:24:06 - INFO - Starting observer ssh.
+Dec 14 06:24:06 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:07 - INFO - Initialized successfully.
+Dec 14 06:24:07 - INFO - Starting observer ssh.
+Dec 14 06:24:07 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:07 - INFO - Initialized successfully.
+Dec 14 06:24:07 - INFO - Starting observer ssh.
+Dec 14 06:24:07 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:08 - INFO - Initialized successfully.
+Dec 14 06:24:08 - INFO - Starting observer ssh.
+Dec 14 06:24:08 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:09 - INFO - Initialized successfully.
+Dec 14 06:24:09 - INFO - Starting observer ssh.
+Dec 14 06:24:09 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:09 - INFO - Initialized successfully.
+Dec 14 06:24:09 - INFO - Starting observer ssh.
+Dec 14 06:24:09 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:10 - INFO - Initialized successfully.
+Dec 14 06:24:10 - INFO - Starting observer ssh.
+Dec 14 06:24:10 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:11 - INFO - Initialized successfully.
+Dec 14 06:24:11 - INFO - Starting observer ssh.
+Dec 14 06:24:11 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:11 - INFO - Initialized successfully.
+Dec 14 06:24:11 - INFO - Starting observer ssh.
+Dec 14 06:24:11 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:12 - INFO - Initialized successfully.
+Dec 14 06:24:12 - INFO - Starting observer ssh.
+Dec 14 06:24:12 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:12 - INFO - Initialized successfully.
+Dec 14 06:24:12 - INFO - Starting observer ssh.
+Dec 14 06:24:12 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:13 - INFO - Initialized successfully.
+Dec 14 06:24:13 - INFO - Starting observer ssh.
+Dec 14 06:24:13 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:14 - INFO - Initialized successfully.
+Dec 14 06:24:14 - INFO - Starting observer ssh.
+Dec 14 06:24:14 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:15 - INFO - Initialized successfully.
+Dec 14 06:24:15 - INFO - Starting observer ssh.
+Dec 14 06:24:15 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:16 - INFO - Initialized successfully.
+Dec 14 06:24:16 - INFO - Starting observer ssh.
+Dec 14 06:24:16 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:17 - INFO - Initialized successfully.
+Dec 14 06:24:17 - INFO - Starting observer ssh.
+Dec 14 06:24:17 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:18 - INFO - Initialized successfully.
+Dec 14 06:24:18 - INFO - Starting observer ssh.
+Dec 14 06:24:18 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:19 - INFO - Initialized successfully.
+Dec 14 06:24:19 - INFO - Starting observer ssh.
+Dec 14 06:24:19 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:20 - INFO - Initialized successfully.
+Dec 14 06:24:20 - INFO - Starting observer ssh.
+Dec 14 06:24:20 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:20 - INFO - Initialized successfully.
+Dec 14 06:24:20 - INFO - Starting observer ssh.
+Dec 14 06:24:20 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:21 - INFO - Initialized successfully.
+Dec 14 06:24:21 - INFO - Starting observer ssh.
+Dec 14 06:24:21 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:21 - INFO - Initialized successfully.
+Dec 14 06:24:21 - INFO - Starting observer ssh.
+Dec 14 06:24:21 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:22 - INFO - Initialized successfully.
+Dec 14 06:24:22 - INFO - Starting observer ssh.
+Dec 14 06:24:22 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:23 - INFO - Initialized successfully.
+Dec 14 06:24:23 - INFO - Starting observer ssh.
+Dec 14 06:24:23 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:23 - INFO - Initialized successfully.
+Dec 14 06:24:23 - INFO - Starting observer ssh.
+Dec 14 06:24:23 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:24 - INFO - Initialized successfully.
+Dec 14 06:24:24 - INFO - Starting observer ssh.
+Dec 14 06:24:24 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:25 - INFO - Initialized successfully.
+Dec 14 06:24:25 - INFO - Starting observer ssh.
+Dec 14 06:24:25 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:25 - INFO - Initialized successfully.
+Dec 14 06:24:25 - INFO - Starting observer ssh.
+Dec 14 06:24:25 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:26 - INFO - Initialized successfully.
+Dec 14 06:24:26 - INFO - Starting observer ssh.
+Dec 14 06:24:26 - INFO - observing file: ./ssh.txt
+Dec 14 06:24:26 - INFO - Initialized successfully.
+Dec 14 06:24:26 - INFO - Starting observer ssh.
+Dec 14 06:24:26 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:19 - INFO - Initialized successfully.
+Dec 21 16:44:19 - INFO - Starting observer ssh.
+Dec 21 16:44:19 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:19 - INFO - Initialized successfully.
+Dec 21 16:44:19 - INFO - Starting observer ssh.
+Dec 21 16:44:19 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:20 - INFO - Initialized successfully.
+Dec 21 16:44:20 - INFO - Starting observer ssh.
+Dec 21 16:44:20 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:21 - INFO - Initialized successfully.
+Dec 21 16:44:21 - INFO - Starting observer ssh.
+Dec 21 16:44:21 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:21 - INFO - Initialized successfully.
+Dec 21 16:44:21 - INFO - Starting observer ssh.
+Dec 21 16:44:21 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:22 - INFO - Initialized successfully.
+Dec 21 16:44:22 - INFO - Starting observer ssh.
+Dec 21 16:44:22 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:23 - INFO - Initialized successfully.
+Dec 21 16:44:23 - INFO - Starting observer ssh.
+Dec 21 16:44:23 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:23 - INFO - Initialized successfully.
+Dec 21 16:44:23 - INFO - Starting observer ssh.
+Dec 21 16:44:23 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:24 - INFO - Initialized successfully.
+Dec 21 16:44:24 - INFO - Starting observer ssh.
+Dec 21 16:44:24 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:25 - INFO - Initialized successfully.
+Dec 21 16:44:25 - INFO - Starting observer ssh.
+Dec 21 16:44:25 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:25 - INFO - Initialized successfully.
+Dec 21 16:44:25 - INFO - Starting observer ssh.
+Dec 21 16:44:25 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:26 - INFO - Initialized successfully.
+Dec 21 16:44:26 - INFO - Starting observer ssh.
+Dec 21 16:44:26 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:26 - INFO - Initialized successfully.
+Dec 21 16:44:26 - INFO - Starting observer ssh.
+Dec 21 16:44:26 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:27 - INFO - Initialized successfully.
+Dec 21 16:44:27 - INFO - Starting observer ssh.
+Dec 21 16:44:27 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:28 - INFO - Initialized successfully.
+Dec 21 16:44:28 - INFO - Starting observer ssh.
+Dec 21 16:44:28 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:28 - INFO - Initialized successfully.
+Dec 21 16:44:28 - INFO - Starting observer ssh.
+Dec 21 16:44:28 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:29 - INFO - Initialized successfully.
+Dec 21 16:44:29 - INFO - Starting observer ssh.
+Dec 21 16:44:29 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:30 - INFO - Initialized successfully.
+Dec 21 16:44:30 - INFO - Starting observer ssh.
+Dec 21 16:44:30 - INFO - observing file: ./ssh.txt
+Dec 21 16:44:31 - INFO - Initialized successfully.
+Dec 21 16:44:31 - INFO - Starting observer ssh.
+Dec 21 16:44:31 - INFO - observing file: ./ssh.txt

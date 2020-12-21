@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-    <logfile>E:\heimdall\logfile.log</logfile>
+    <logfile>./logfile.log</logfile>
     <command_jail>/sbin/iptables -I INPUT 1 -s {ip} -j DROP</command_jail>
     <command_unjail>/sbin/iptables -D INPUT -s {ip} -j DROP</command_unjail>
     <observers jail_time="1200">
 
         <observer name="ssh" limit_count="2" limit_minutes="10">
-            <file>E:\heimdall\logfiles\ssh.txt</file>
+            <file>./ssh.txt</file>
             <patterns>
+                <pattern>{hh:mm:ss}.*Invalid user.*from {ip}</pattern>
                 <pattern>{hh:mm:ss}.*Failed password.*from {ip}</pattern>
                 <pattern>{hh:mm:ss}.*2 more authentication failures.*rhost={ip}</pattern>
             </patterns>
