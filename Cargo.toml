@@ -1,10 +1,10 @@
 [package]
 name = "heimdall"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Christian Sporer <sporer@acriba.at>"]
 
 [dependencies]
-regex = ""
+regex = "0.1"
 time = "0.1"
 xmltree = "0.3.2"
 getopts = "0.2"

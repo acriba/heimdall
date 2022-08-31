@@ -21,7 +21,7 @@ use std::sync::mpsc;
 use std::sync::Arc;
 use std::sync::Mutex;
 use std::time::Duration;
-use std::net::Ipv4Addr;
+use std::net::IpAddr;
 use std::str::FromStr;
 use std::process::Command;
 use std::io;
@@ -39,12 +39,12 @@ mod config;
 
 pub struct Hit {
     observer_name: String,
-    ip: Ipv4Addr
+    ip: IpAddr
 }
 
 struct JailEntry {
     time: i64,
-    ip: Ipv4Addr,
+    ip: IpAddr,
 }
 
 struct LogFormat;
@@ -95,7 +95,7 @@ fn unjail(entries: &mut Vec<JailEntry>, index: usize, command: &str, simulate: b
     }
 }
 
-fn dojail(entries: &mut Vec<JailEntry>, jail_counter: &mut HashMap<Ipv4Addr, u32>, hit: &Hit, jail_time: i64, command: &str, simulate: bool) -> bool {
+fn dojail(entries: &mut Vec<JailEntry>, jail_counter: &mut HashMap<IpAddr, u32>, hit: &Hit, jail_time: i64, command: &str, simulate: bool) -> bool {
 
 
     //let mut effective_jail_time = jail_time;
@@ -131,9 +131,14 @@ fn dojail(entries: &mut Vec<JailEntry>, jail_counter: &mut HashMap<Ipv4Addr, u32
 
 }
 
-fn execute_process(command: &str, ip: &Ipv4Addr, simulate: bool) -> bool {
+fn execute_process(command: &str, ip: &IpAddr, simulate: bool) -> bool {
 
-    let mut parsed_command = String::from_str(command).unwrap().replace("{ip}", &ip.to_string());
+    let mut parsed_command = String::from_str(command).unwrap()
+        .replace("{ip}", &ip.to_string())
+        .replace("{version}", match ip {
+            &IpAddr::V4(_) => "4",
+            &IpAddr::V6(_) => "6"
+        });
 
     let program_name_offset = parsed_command.find(" ").unwrap_or(parsed_command.len());
     let program_name : String = parsed_command.drain(..program_name_offset).collect();
@@ -206,7 +211,7 @@ fn main() {
 
     let matches = match opts.parse(&args[1..]) {
         Ok(m) => { m }
-        Err(f) => { panic!(f.to_string()) }
+        Err(f) => { panic!("{}", f.to_string()) }
     };
 
     if matches.opt_present("h") {
@@ -263,7 +268,7 @@ fn main() {
         info!("Simulation mode activated.");
     }
 
-    let mut jail_counter : HashMap<Ipv4Addr, u32> = HashMap::new();
+    let mut jail_counter : HashMap<IpAddr, u32> = HashMap::new();
     let jail = Arc::new(Mutex::new(Vec::new()));
     unjail_thread(jail.clone(), 1000, config.command_unjail , simulate);
 

@@ -8,7 +8,7 @@ use std::fs::File;
 use std::thread;
 use std::sync::mpsc::Sender;
 use std::time::Duration;
-use std::net::Ipv4Addr;
+use std::net::IpAddr;
 use std::str::FromStr;
 //use std::collections::HashMap;
 // use std::error::Error;
@@ -46,7 +46,7 @@ pub struct LogPattern {
 pub struct PatternResult {
     hour: u8,
     minute: u8,
-    ip: Ipv4Addr,
+    ip: IpAddr,
 }
 
 impl HourStat {
@@ -109,9 +109,9 @@ impl FileObserver {
 
         thread::spawn(move || {
 
-            //let mut ip_statistics : HashMap<Ipv4Addr, HourStat> = HashMap::new();
+            //let mut ip_statistics : HashM<IpAddr, HourStat> = HashMap::new();
 
-            let mut ip_statistics : FnvLruCache<Ipv4Addr, HourStat> = LruCache::with_hasher(5000, Default::default());
+            let mut ip_statistics : FnvLruCache<IpAddr, HourStat> = LruCache::with_hasher(5000, Default::default());
 
             let mut log_line = String::new();
 
@@ -171,7 +171,7 @@ impl FileObserver {
 
 }
 
-fn get_updated_interval_hits(ip_statistics: &mut FnvLruCache<Ipv4Addr, HourStat>, hit: &PatternResult, limit_minutes: &u8) -> u32 {
+fn get_updated_interval_hits(ip_statistics: &mut FnvLruCache<IpAddr, HourStat>, hit: &PatternResult, limit_minutes: &u8) -> u32 {
 
     if let Some(hour_stat) = ip_statistics.get_mut(&hit.ip) {
         hour_stat.add(hit.hour, hit.minute, 1);
@@ -211,7 +211,7 @@ fn check_patterns(regex_set: &RegexSet, patterns: &Vec<LogPattern>, line: &str) 
                 None => return None
             };
 
-            let ip = caps.at(log_pattern.pos_ip).and_then( |s| match Ipv4Addr::from_str(s) {
+            let ip = caps.at(log_pattern.pos_ip).and_then( |s| match IpAddr::from_str(s) {
                 Ok(ip) => Some(ip),
                 Err(_) => None
             });
@@ -228,4 +228,46 @@ fn check_patterns(regex_set: &RegexSet, patterns: &Vec<LogPattern>, line: &str) 
     }
 
     None
+}
+
+#[cfg(test)]
+mod tests {
+    use regex::RegexSet;
+    use config::create_pattern;
+
+    use super::*;
+
+    #[test]
+    fn checkpatterns_ipv4() {
+        let mut pattern_strs = Vec::<String>::new();
+        let mut patterns = Vec::<LogPattern>::new();
+
+        let (pattern, pattern_str) = create_pattern(&"{hh:mm:ss}.*Failed password.*from {ip}".to_owned()).unwrap();
+        pattern_strs.push(pattern_str);
+        let regex_set = RegexSet::new(pattern_strs).unwrap();
+        patterns.push(pattern);
+
+        let check = check_patterns(&regex_set, &patterns, "10:00:00 Failed password from 192.168.1.1").unwrap();
+        assert_eq!(check.hour, 10);
+        assert_eq!(check.minute, 00);
+        assert_eq!(check.ip, IpAddr::from_str("192.168.1.1").unwrap());
+    }
+
+    #[test]
+    fn checkpatterns_ipv6() {
+        let mut pattern_strs = Vec::<String>::new();
+        let mut patterns = Vec::<LogPattern>::new();
+
+        let (pattern, pattern_str) = create_pattern(&"{hh:mm:ss}.*Failed password.*from {ip}".to_owned()).unwrap();
+        pattern_strs.push(pattern_str);
+        let regex_set = RegexSet::new(pattern_strs).unwrap();
+        patterns.push(pattern);
+
+        for ip in &["fe80::60:24:8d:19", "::1", "::ffff:192.168.1.1"] {
+            let check = check_patterns(&regex_set, &patterns, &format!("10:00:00 Failed password from {}", ip)).unwrap();
+            assert_eq!(check.hour, 10);
+            assert_eq!(check.minute, 00);
+            assert_eq!(check.ip, IpAddr::from_str(ip).unwrap());
+        }
+    }
 }

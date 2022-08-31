@@ -157,7 +157,7 @@ fn get_for_string<'a>(s: &'a str, pos_ip : &'a mut usize, pos_hour: &'a mut usiz
 }
 */
 
-fn create_pattern(s: &String) -> Result<(LogPattern, String), String> {
+pub(crate) fn create_pattern(s: &String) -> Result<(LogPattern, String), String> {
 
     let raw = s.replace("{hh:mm:ss}", r"{h}:{m}:\d\d");
 
@@ -166,8 +166,10 @@ fn create_pattern(s: &String) -> Result<(LogPattern, String), String> {
         .replace("{h}", "({h})")
         .replace("{m}", "({m})");
 
+	// ip regex is not to validate ip (already done by IpAdrr::from_str) but to capture an ip
+	// from start to finish. The context in which {ip} appears, helps to constraint the ip
     let str_regex = raw
-        .replace("{ip}", r"(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})")
+        .replace("{ip}", r"((?:(?:\d{1,3}\.){3}\d{1,3})|(?:(?:[0-9a-fA-F]{0,4}[:.]){2,7}(?:[0-9a-fA-F]{0,4})?))")
         .replace("{h}", r"(\d?\d)")
         .replace("{m}", r"(\d?\d)");
 
@@ -215,4 +217,17 @@ fn create_pattern(s: &String) -> Result<(LogPattern, String), String> {
         },str_regex)
     )
 
+}
+
+#[cfg(test)]
+mod test {
+	use crate::config::create_pattern;
+
+	#[test]
+	fn test_create_pattern() {
+		let (pat, _) = create_pattern(&"{hh:mm:ss}.*Failed password.*from {ip}".to_owned()).unwrap();
+		assert_eq!(pat.pos_hour, 1);
+		assert_eq!(pat.pos_minute, 2);
+		assert_eq!(pat.pos_ip, 3);
+	}
 }
