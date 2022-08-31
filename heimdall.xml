@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
     <logfile>E:\heimdall\logfile.log</logfile>
-    <command_jail>/sbin/iptables -I INPUT 1 -s {ip} -j DROP</command_jail>
-    <command_unjail>/sbin/iptables -D INPUT -s {ip} -j DROP</command_unjail>
+    <command_jail>/sbin/ip{version}tables -I INPUT 1 -s {ip} -j DROP</command_jail>
+    <command_unjail>/sbin/ip{version}tables -D INPUT -s {ip} -j DROP</command_unjail>
     <observers jail_time="1200">
 
         <observer name="ssh" limit_count="2" limit_minutes="10">
